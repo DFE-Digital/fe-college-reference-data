@@ -1,0 +1,2813 @@
+"collegeGroups": [
+  {
+    "groupId": "1000",
+    "name": "Activate Learning",
+    "URN": "134153",
+    "website": "https://www.activatelearning.ac.uk/"
+  },
+  {
+    "groupId": "1001",
+    "name": "Capital City College Group (CCCG)",
+    "URN": "130421",
+    "website": "https://www.capitalccg.ac.uk/"
+  },
+  {
+    "id":"1002",
+    "name": "DN Colleges Group",
+    "URN": "130587",
+    "website": "https://www.dncolleges.ac.uk/"
+  }
+  {
+    "groupId": "1003",
+    "name": "South Hampshire College Group",
+    "URN": "130693",
+    "website": "https://www.shcg.ac.uk/"
+  }
+  {
+    "groupId": "1004",
+    "name": "East Kent Colleges Group (EKC Group)",
+    "URN": "130728",
+    "website": "https://www.ekcgroup.ac.uk/"
+  },
+  {
+    "groupId": "1005",
+    "name": "Harrow Richmond Uxbridge Colleges (HRUC)",
+    "URN": "130446",
+    "website": "https://www.hruc.ac.uk/"
+  },
+  {
+    "groupId": "1006",
+    "name": "Heart of Yorkshire Education Group",
+    "URN": "130549",
+    "website": "https://www.heartofyorkshire.ac.uk/",
+  }
+  {
+    "groupId": "1007",
+    "name": "Inspire Education Group",
+    "URN": "130613",
+    "website": "https://ieg.ac.uk/",
+  },
+  {
+    "groupId": "1008",
+    "name": "LTE Group (Learning, Training, Employment Group)",
+    "URN": "130613",
+    "website": "https://www.ltegroup.co.uk/",
+  },
+  {
+    "groupId": "1009",
+    "name": "Luminate Education Group",
+    "URN": "135771",
+    "website": "https://luminate.ac.uk/"
+  },
+  {
+    "groupId": "1010",
+    "name": "NCG (Newcastle College Group)",
+    "URN": "130552",
+    "website": "https://www.ncgrp.co.uk/",
+  },
+  {
+    "groupId": "1011",
+    "name": "Orbital South Colleges",
+    "URN": "130824",
+    "website": "https://www.esc.ac.uk/about-esc/about-us/orbital-south-colleges"
+  },
+  {
+    "groupId": "1012",
+    "name": "RNN Group",
+    "URN": "130527",
+    "website": "https://www.rnngroup.co.uk/"
+  },
+  {
+    "groupId": "1013",
+    "name": "London South Bank University Group (LSBU Group)",
+    "URN": "130413",
+    "website": "https://www.lsbu.ac.uk/about-us/lsbu-group"
+  },
+  {
+    "groupId": "1014",
+    "name": "TEC Partnership",
+    "URN": "130585",
+    "website": "https://tecpartnership.com/"
+  },
+  {
+    "groupId": "1015",
+    "name": "The Bedford College Group",
+    "URN": "130597",
+    "website": "https://bedfordcollegegroup.ac.uk/"
+  },
+  {
+    "groupId": "1016",
+    "name": "The Cornwall College Group",
+    "URN": "130627"
+  },
+  {
+    "groupId": "1017",
+    "name": "The Education Training Collective",
+    "URN": "130576",
+    "website": "https://www.the-etc.ac.uk/"
+  },
+  {
+    "groupId": "1018",
+    "name": "The South Thames College Group",
+    "URN": "130448",
+    "website": "https://stcg.ac.uk/"
+  },
+  {
+    "groupId": "1019",
+    "name": "West Herts College Group",
+    "URN": "130720",
+    "website": "https://www.westherts.ac.uk/about/whc-group"
+  },
+  {
+    "groupId": "1020",
+    "name": "Windsor Forest Colleges Group",
+    "URN": "130604",
+    "website": "https://www.windsor-forest.ac.uk/"
+  },
+  {
+    "groupId": "1021",
+    "name": "United Colleges Group",
+    "URN": "130423",
+    "website": "https://www.ucg.ac.uk/"
+  }
+]
+
+"colleges": [
+  {
+    "id": "",
+    "collegeName": "Abingdon and Witney College",
+    "type": "GFEC",
+    "URN": "130793",
+    "website": "https://abingdon-witney.ac.uk/",
+    "campuses": [
+      {
+        "campusName": "Abingdon Campus",
+        "address": "Wootton Road, Abingdon, Oxfordshire",
+        "postcode": "OX14 1GG",
+      }
+    ]
+  },
+  {
+    "id": "",
+    "parentId": "1000",
+    "collegeName": "Banbury and Bicester College",
+    "type": "GFEC",
+    "campuses": [
+      {
+        "campusName": "Banbury campus",
+        "address": "Broughton Road, Banbury, Oxfordshire",
+        "postcode": "OX16 9QA",
+        "website": "https://banbury.activatelearning.ac.uk/"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "parentId": "1000",
+    "collegeName": "Bracknell and Wokingham College",
+    "type": "GFEC",
+    "website": "https://bracknell.activatelearning.ac.uk/",
+    "campuses": [
+      {
+        "address": "Church Road, Bracknell, Bracknell",
+        "postcode": "RG12 1DJ"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "parentId": "1000",
+    "collegeName": "City of Oxford College",
+    "type": "GFEC",
+    "website": "https://oxford.activatelearning.ac.uk/",
+    "campuses": [
+      {
+        "campusName": "Oxford City Centre Campus",
+        "address": "Oxpens Road, Oxfordshire",
+        "postcode": "OX1 1SA"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "parentId": "1000",
+    "collegeName": "Farnham College",
+    "type": "GFEC",
+    "website": "https://farnham.activatelearning.ac.uk/",
+    "campuses": [
+      {
+        "address": "Morley Road, Farnham, Surrey",
+        "postcode": "GU9 8LU"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "parentId": "1000",
+    "collegeName": "Guildford College",
+    "type": "GFEC",
+    "website": "https://guildford.activatelearning.ac.uk/",
+    "campuses": [
+      {
+        "address": "Stoke Road, Guildford, Surrey",
+        "postcode": "GU1 1EZ"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "parentId": "1000",
+    "collegeName": "Merrist Wood College",
+    "type": "GFEC",
+    "website": "https://merristwood.activatelearning.ac.uk/",
+    "campuses": [
+      {
+        "address": "Holly Lane, Worplesdon, Guildford, Surrey",
+        "postcode": "GU3 3PE"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "parentId": "1000",
+    "collegeName": "Reading College",
+    "type": "GFEC",
+    "website": "https://reading.activatelearning.ac.uk/",
+    "campuses": [
+      {
+        "address": "Kings Road, Reading, Berkshire",
+        "postcode": "RG1 4HJ"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "collegeName": "Ada, National College for Digital Skills",
+    "type": "GFEC",
+    "URN": "143540",
+    "website": "https://www.ada.ac.uk/",
+    "campuses": [
+      {
+        "campusName": "London Sixth Form and Apprenticeship Campus",
+        "address": "1, Sutherland Street, Pimlico, London",
+        "postcode": "SW1V 4LD"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "collegeName": "Barking and Dagenham College",
+    "type": "GFEC",
+    "URN": "130424",
+    "website": "https://barkingdagenhamcollege.ac.uk/",
+    "campuses": [
+      {
+        "campusName": "Rush Green Campus",
+        "address": "Dagenham Road, Rush Green, Romford, Essex",
+        "postcode": "RM7 0XU",
+      }
+    ]
+  },
+  {
+    "id": "",
+    "collegeName": "Barnet and Southgate College",
+    "type": "GFEC",
+    "URN": "130425",
+    "website": "https://www.barnetsouthgate.ac.uk/",
+    "campuses": [
+      {
+        "campusName": "Barnet Campus",
+        "address": "Wood Street, High Barnet, London",
+        "localAuthority": "Barnet",
+        "postcode": "EN5 4AZ"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "collegeName": "Barnsley College",
+    "type": "GFEC",
+    "URN": "130524",
+    "website": "https://www.barnsley.ac.uk/",
+    "campuses": [
+      {
+        "campusName": "Church Street campus",
+        "address": "Church Street campus, Church Street, Barnsley",
+        "postcode": "S70 2AN"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "collegeName": "Basingstoke College of Technology",
+    "type": "GFEC",
+    "URN": "130688",
+    "website": "https://www.bcot.ac.uk/",
+    "campuses": [
+      {
+        "campusName": "Basingstoke College of Technology",
+        "address": "Worting Road, Basingstoke, Hampshire",
+        "postcode": "RG21 8TN"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "collegeName": "Bath College",
+    "type": "GFEC",
+    "URN": "130558",
+    "website": "https://www.bathcollege.ac.uk/",
+    "campuses": [
+      {
+        "campusName": "City Centre Campus",
+        "address": "Bath College, Avon Street, Bath",
+        "postcode": "BA1 1UP"
+      }
+    ]
+  },
+    {
+    "id": "",
+    "collegeName": "Birmingham Metropolitan College",
+    "type": "GFEC",
+    "URN": "130466",
+    "website": "http://www.bmet.ac.uk/",
+    "campuses": [
+      {
+        "campusName": "Matthew Boulton College",
+        "address": "Jennens Road, Birmingham, West Midlands",
+        "postcode": "B4 7PS"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "collegeName": "Bishop Auckland College",
+    "type": "GFEC",
+    "URN": "130657",
+    "website": "https://bacoll.ac.uk/",
+    "campuses": [
+      {
+        "address": "Woodhouse Lane, Bishop Auckland, County Durham",
+        "postcode": "DL14 6JZ"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "collegeName": "Blackburn College",
+    "type": "GFEC",
+    "URN": "130736",
+    "website": "https://blackburn.ac.uk/",
+    "campuses": [
+      {
+        "address": "Harrison Centre, Feilden Street, Blackburn, Lancashire",
+        "postcode": "BB2 1LH"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "collegeName": "Blackpool and The Fylde College",
+    "type": "GFEC",
+    "URN": "130739",
+    "website": "https://www.blackpool.ac.uk/",
+    "campuses": [
+      {
+        "campusName": "Bispham Campus",
+        "address": "Ashfield Road, Bispham, Blackpool",
+        "postcode": "FY2 0HB"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "collegeName": "Bolton College",
+    "type": "FE",
+    "URN": "130495",
+    "website": "https://www.boltoncollege.ac.uk/",
+    "campuses": [
+      {
+        "campusName": "Deane Road Campus",
+        "address": "Deane Road",
+        "postcode": "Bolton"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "collegeName": "Boston College",
+    "type": "GFEC",
+    "URN": "130761",
+    "website": "https://www.boston.ac.uk/",
+    "campuses": [
+      {
+        "campusName": "Boston College (Main Rochford Campus)",
+        "address": "Skirbeck Road, Boston, Lincolnshire",
+        "postcode": "PE21 6JF"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "collegeName": "Bournemouth & Poole College",
+    "type": "GFEC",
+    "URN": "130652",
+    "website": "https://www.thecollege.co.uk/",
+    "campuses": [
+      {
+        "campusName": "North Road Campus",
+        "address": "North Road, Poole, Dorset",
+        "postcode": "BH14 0LS"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "collegeName": "Bradford College",
+    "type": "GFEC",
+    "URN": "130532",
+    "website": "https://www.bradfordcollege.ac.uk/",
+    "campuses": [
+      {
+        "address": "Great Horton Road, Bradford, West Yorkshire",
+        "postcode": "BD7 1AY"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "collegeName": "Bridgwater and Taunton College",
+    "type": "GFEC",
+    "URN": "130803",
+    "website": "https://www.btc.ac.uk/",
+    "campuses": [
+      {
+        "campusName": "Bridgwater Campus",
+        "address": "Bath Road, Bridgwater, Somerset",
+        "postcode": "TA6 4PZ"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "collegeName": "Brockenhurst College",
+    "type": "GFEC",
+    "URN": "130690",
+    "website": "https://www.brock.ac.uk/",
+    "campuses": [
+      {
+        "address": "Lyndhurst Road, Brockenhurst, Hampshire",
+        "postcode": "SO42 7ZE"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "collegeName": "Brooklands College",
+    "type": "GFEC",
+    "URN": "130825",
+    "website": "https://www.brooklands.ac.uk/",
+    "campuses": [
+      {
+        "campusName": "Brooklands College",
+        "address": "Heath Road, Weybridge, Surrey",
+        "postcode": "KT13 8TT"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "collegeName": "Buckinghamshire College Group",
+    "type": "GFEC",
+    "URN": "130607",
+    "website": "https://www.buckscollegegroup.ac.uk/",
+    "campuses": [
+      {
+        "campusName": "Aylesbury",
+        "address": "Oxford Road, Aylesbury, Buckinghamshire",
+        "postcode": "HP21 8PD"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "collegeName": "Burnley College",
+    "type": "GFEC",
+    "URN": "130735",
+    "website": "https://www.burnley.ac.uk/",
+    "campuses": [
+      {
+        "campusName": "Burnley College",
+        "address": "Princess Way, Burnley, Lancashire",
+        "postcode": "BB12 0AN"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "collegeName": "Burton and South Derbyshire College",
+    "type": "GFEC",
+    "URN": "130809",
+    "website": "https://www.bsdc.ac.uk/",
+    "campuses": [
+      {
+        "campusName": "Burton Town Centre Campus",
+        "address": "Lichfield Street, Burton upon Trent",
+        "postcode": "DE14 3RL"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "collegeName": "Bury College",
+    "type": "GFEC",
+    "URN": "130498",
+    "website": "https://burycollege.ac.uk/",
+    "campuses": [
+      {
+        "address": "Market Street, Bury, Greater Manchester",
+        "postcode": "BL9 0BG"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "collegeName": "Calderdale College",
+    "type": "GFEC",
+    "URN": "130535",
+    "website": "https://www.calderdale.ac.uk/",
+    "campuses": [
+      {
+        "address": "Francis Street, Halifax, West Yorkshire",
+        "postcode": "HX1 3UZ"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "collegeName": "Cambridge Regional College",
+    "type": "GFEC",
+    "URN": "130610",
+    "website": "https://www.camre.ac.uk/",
+    "campuses": [
+      {
+        "campusName": "Cambridge Campus",
+        "address": "Kings Hedges Road, Cambridge, Cambridgeshire",
+        "postcode": "CB4 2QT"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "parentId": "1001",
+    "collegeName": "City and Islington College",
+    "website": "https://www.capitalccg.ac.uk/candi",
+    "campuses": [
+      {
+        "campusName": "Centre for Business, Arts and Technology, Camden Road",
+        "address": "444 Camden Road, Islington",
+        "postcode": "N7 0SP",
+      }
+    ]
+  },
+  {
+    "id": "",
+    "parentId": "1001",
+    "collegeName": "The College of Haringey, Enfield and North East London",
+    "website": "https://www.capitalccg.ac.uk/conel",
+    "campuses": [
+      {
+        "campusName": "Enfield Construction Skills Academy",
+        "address": "Leeside Road, Enfield",
+        "postcode": "N17 0SL",
+      }
+    ]
+  },
+  {
+    "id": "",
+    "parentId": "1001",
+    "collegeName": "Westminster Kingsway College",
+    "website": "https://www.capitalccg.ac.uk/westking",
+    "campuses": [
+      {
+        "campusName": "King’s Cross Centre",
+        "address": "211 Gray’s Inn Road, London",
+        "postcode": "WC1X 8RA",
+      }
+    ]
+  },
+  {
+    "id": "",
+    "collegeName": "Chelmsford College",
+    "type": "GFEC",
+    "URN": "130679",
+    "website": "https://www.chelmsford.ac.uk/",
+    "campuses": [
+      {
+        "campusName": "Moulsham Street Campus",
+        "address": "Moulsham Street, Chelmsford",
+        "postcode": "CM2 0JQ"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "collegeName": "Cheshire College South and West",
+    "type": "GFEC",
+    "URN": "130619",
+    "website": "https://www.ccsw.ac.uk/",
+    "campuses": [
+      {
+        "campusName": "Crewe Campus",
+        "address": "Dane Bank Avenue, Crewe, Cheshire",
+        "postcode": "CW2 8AB"
+      },
+    ]
+  },
+  {
+    "id": "",
+    "collegeName": "Chesterfield College",
+    "type": "GFEC",
+    "URN": "130638",
+    "website": "https://www.chesterfield.ac.uk/",
+    "campuses": [
+      {
+        "campusName": "Chesterfield College",
+        "address": "Infirmary Road, Chesterfield, Derbyshire",
+        "postcode": "S41 7NG"
+      },
+    ]
+  },
+  {
+    "id": "",
+    "collegeName": "City College Norwich",
+    "type": "GFEC",
+    "URN": "130764",
+    "website": "https://www.ccn.ac.uk/",
+    "campuses": [
+      {
+        "campusName": "City College Norwich",
+        "address": "Ipswich Road, Norwich",
+        "postcode": "NR2 2LJ"
+      },
+    ]
+  },
+  {
+    "id": "",
+    "collegeName": "City College Plymouth",
+    "type": "GFEC",
+    "URN": "130649",
+    "website": "https://www.cityplym.ac.uk/",
+    "campuses": [
+      {
+        "campusName": "City College Plymouth",
+        "address": "Kings Road, Devonport, Plymouth, Devon",
+        "postcode": "PL1 5QG"
+      },
+    ]
+  },
+  {
+    "id": "",
+    "collegeName": "City of Bristol College",
+    "type": "GFEC",
+    "URN": "131094",
+    "website": "https://www.cityofbristol.ac.uk/",
+    "campuses": [
+      {
+        "campusName": "College Green Centre",
+        "address": "St George’s Road, Anchor Road, Bristol",
+        "postcode": "BS1 5UA"
+      },
+    ]
+  },
+  {
+    "id": "",
+    "collegeName": "City of Portsmouth College",
+    "type": "GFEC",
+    "URN": "130697",
+    "website": "https://city-of-portsmouth-college.ac.uk/",
+    "campuses": [
+      {
+        "campusName": "Highbury Campus",
+        "address": "Tudor Crescent, Portsmouth",
+        "postcode": "PO6 2SA"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "collegeName": "City of Wolverhampton College",
+    "type": "GFEC",
+    "URN": "130484",
+    "website": "http://www.wolvcoll.ac.uk/",
+    "campuses": [
+      {
+        "campusName": "Paget Road Campus",
+        "address": "Paget Road, Wolverhampton",
+        "postcode": "WV6 0DU"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "collegeName": "Colchester Institute",
+    "type": "GFEC",
+    "URN": "130674",
+    "website": "https://www.colchester.ac.uk/",
+    "campuses": [
+      {
+        "campusName": "Colchester Campus",
+        "address": "Sheepen Road, Colchester",
+        "postcode": "CO3 3LL"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "collegeName": "Coventry College",
+    "type": "GFEC",
+    "URN": "130472",
+    "website": "https://www.coventrycollege.ac.uk/",
+    "campuses": [
+      {
+        "address": "50 Swanswell Street, Coventry",
+        "postcode": "CV1 5DG"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "collegeName": "Craven College",
+    "type": "GFEC",
+    "URN": "130591",
+    "website": "https://www.craven-college.ac.uk/",
+    "campuses": [
+      {
+        "campusName": "Aireville Campus",
+        "address": "Gargrave Road, Skipton",
+        "postcode": "BD23 1US"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "collegeName": "Croydon College",
+    "type": "GFEC",
+    "URN": "130432",
+    "website": "https://croydon.ac.uk/",
+    "campuses": [
+      {
+        "address": "College Road, Croydon",
+        "postcode": "CR9 1DX"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "collegeName": "Darlington College",
+    "type": "GFEC",
+    "URN": "130656",
+    "website": "https://darlington.ac.uk/",
+    "campuses": [
+      {
+        "campusName": "Darlington College",
+        "address": "Central Park, Haughton Road, Darlington",
+        "postcode": "DL1 1DR"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "collegeName": "DCG (Derby College)",
+    "type": "GFEC",
+    "URN": "133585",
+    "website": "https://www.derby-college.ac.uk/",
+    "campuses": [
+      {
+        "campusName": "The Roundhouse",
+        "address": "Roundhouse Road, Pride Park, Derby, Derbyshire",
+        "postcode": "DE24 8JE"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "collegeName": "Derwentside College",
+    "type": "GFEC",
+    "URN": "130658",
+    "website": "https://www.derwentside.ac.uk/",
+    "campuses": [
+      {
+        "address": "Front Street, Consett, County Durham",
+        "postcode": "DH8 5EE"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "parentId": "1002",
+    "collegeName": "Doncaster College",
+    "website": "https://don.ac.uk/",
+    "campuses": [
+      {
+        "address": "The Hub, Chappell Drive, Doncaster",
+        "postcode": "DN1 2RF"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "parentId": "1002",
+    "collegeName": "North Lindsey",
+    "website": "https://northlindsey.ac.uk/",
+    "campuses": [
+      {
+        "address": "Kingsway, Scunthorpe, North Lincolnshire",
+        "postcode": "DN17 1AJ"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "collegeName": "Dudley College of Technology",
+    "type": "GFEC",
+    "URN": "130475",
+    "website": "https://dudleycol.ac.uk/",
+    "campuses": [
+      {
+        "campusName": "The Broadway",
+        "address": "Dudley",
+        "postcode": "DY1 4AS"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "collegeName": "West London College",
+    "URN": "130408",
+    "website": "https://www.wlc.ac.uk/",
+    "campuses": [
+      {
+        "campusName": "Hammersmith & Fulham College",
+        "address": "Gliddon Road, Barons Court, London",
+        "postcode": "W14 9BL"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "collegeName": "East Coast College",
+    "type": "GFEC",
+    "URN": "130819",
+    "website": "https://www.eastcoast.ac.uk/",
+    "campuses": [
+      {
+        "campusName": "Great Yarmouth Campus",
+        "address": "Suffolk Road, Great Yarmouth, Norfolk",
+        "postcode": "NR31 0ED"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "collegeName": "East Durham College",
+    "type": "GFEC",
+    "URN": "131859",
+    "website": "https://www.edc.ac.uk/",
+    "campuses": [
+      {
+        "campusName": "East Durham College",
+        "address": "Willerby Grove, Peterlee, County Durham",
+        "postcode": "SR8 2RN"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "collegeName": "East Sussex College Group",
+    "type": "GFEC",
+    "URN": "130665",
+    "website": "https://www.escg.ac.uk/",
+    "campuses": [
+      {
+        "campusName": "Eastbourne Campus",
+        "address": "Cross Levels Way, Eastbourne, East Sussex",
+        "postcode": "BN21 2UF"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "parentId": "1003",
+    "collegeName": "Eastleigh College",
+    "website": "https://www.eastleigh.ac.uk/",
+    "campuses": [
+      {
+        "campusName": "Main Campus",
+        "address": "Chestnut Avenue, Eastleigh, Hampshire",
+        "postcode": "SO50 5FS"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "parentId": "1003",
+    "collegeName": "Fareham College",
+    "website": "https://www.fareham.ac.uk/",
+    "campuses": [
+      {
+        "campusName": "Bishopsfield Road Campus",
+        "address": "Bishopsfield Road, Fareham, PO14 1NH",
+        "postcode": "PO14 1NH"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "parentId": "1003",
+    "collegeName": "City College Southampton",
+    "website": "http://www.southampton-city.ac.uk/",
+    "campuses": [
+      {
+        "campusName": "Main Campus",
+        "address": "St Mary Street, Southampton",
+        "postcode": "SO14 1AR"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "parent": "1004",
+    "collegeName": "Ashford College",
+    "website": "https://www.ashfordcollege.ac.uk/",
+    "campuses": [
+      {
+        "address": "Elwick Road, Ashford, Kent",
+        "postcode": "TN23 1NN"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "parent": "1004",
+    "collegeName": "Broadstairs College",
+    "website": "https://www.broadstairscollege.ac.uk/",
+    "campuses": [
+      {
+        "address": "Ramsgate Road, Broadstairs, Kent",
+        "postcode": "CT10 1PN"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "parent": "1004",
+    "collegeName": "Canterbury College",
+    "website": "https://www.canterburycollege.ac.uk/",
+    "campuses": [
+      {
+        "address": "New Dover Road, Canterbury, Kent",
+        "postcode": "CT1 3AJ"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "parent": "1004",
+    "collegeName": "Dover College",
+    "website": "https://www.dovercollege.ac.uk/",
+    "campuses": [
+      {
+        "address": "Maison Dieu Road, Dover, Kent",
+        "postcode": "CT16 1DH"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "parent": "1004",
+    "collegeName": "Folkestone College",
+    "website": "https://www.folkestonecollege.ac.uk/",
+    "campuses": [
+      {
+        "address": "Shorncliffe Road, Folkestone, Kent",
+        "postcode": "CT20 2TZ"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "parent": "1004",
+    "collegeName": "Sheppey College",
+    "website": "https://www.sheppeycollege.ac.uk/",
+    "campuses": [
+      {
+        "address": "Bridge Road, Sheerness, Kent",
+        "postcode": "ME12 1HL"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "collegeName": "Exeter College",
+    "type": "GFEC",
+    "URN": "130645",
+    "website": "https://exe-coll.ac.uk/",
+    "campuses": [
+      {
+        "campusName": "Digital and Data Centre, Hele Road site",
+        "address": "Hele Road, Exeter, Devon",
+        "postcode": "EX4 4JS"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "collegeName": "Farnborough College of Technology",
+    "type": "GFEC",
+    "URN": "130689",
+    "website": "https://www.farn-ct.ac.uk/",
+    "campuses": [
+      {
+        "campusName": "Farnborough Campus",
+        "address": "Boundary Road, Farnborough, Hampshire",
+        "postcode": "GU14 6SB"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "collegeName": "Furness College",
+    "type": "GFEC",
+    "URN": "130633",
+    "website": "https://www.furness.ac.uk/",
+    "campuses": [
+      {
+        "campusName": "Channelside Campus",
+        "address": "Channelside, Barrow-in-Furness, Cumbria",
+        "postcode": "LA14 2PJ"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "collegeName": "Gateshead College",
+    "type": "GFEC",
+    "URN": "130551",
+    "website": "https://www.gateshead.ac.uk/",
+    "campuses": [
+      {
+        "campusName": "Baltic Campus",
+        "address": "Quarryfield Road, Gateshead, Tyne and Wear",
+        "postcode": "NE8 3BE"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "collegeName": "Gloucestershire College",
+    "type": "GFEC",
+    "URN": "130683",
+    "website": "https://www.gloscol.ac.uk/",
+    "campuses": [
+      {
+        "campusName": "Cheltenham Campus",
+        "address": "Princess Elizabeth Way, Cheltenham",
+        "postcode": "GL51 7SJ"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "collegeName": "Grantham College",
+    "type": "GFEC",
+    "URN": "130759",
+    "website": "https://www.grantham.ac.uk/",
+    "campuses": [
+      {
+        "address": "Stonebridge Road, Grantham, Lincolnshire",
+        "postcode": "NG31 9AP"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "collegeName": "Halesowen College",
+    "type": "GFEC",
+    "URN": "130476",
+    "website": "https://www.halesowen.ac.uk/",
+    "campuses": [
+      {
+        "address": "Whittingham Road, Halesowen, West Midlands",
+        "postcode": "B63 3NA"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "collegeName": "Harlow College",
+    "type": "GFEC",
+    "URN": "130676",
+    "website": "https://www.harlow-college.ac.uk/",
+    "campuses": [
+      {
+        "address": "Velizy Avenue, Harlow, Essex",
+        "postcode": "CM20 3LH"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "parentId": "1005",
+    "collegeName": "Harrow College",
+    "type": "GFEC",
+    "website": "https://www.harrow.ac.uk/",
+    "campuses": [
+      {
+        "campusName": "Harrow on the Hill Campus",
+        "address": "Lowlands Road, Harrow, Middlesex",
+        "postcode": "HA1 3AQ"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "parentId": "1005",
+    "collegeName": "Uxbridge College",
+    "type": "GFEC",
+    "website": "https://www.harrow.ac.uk/",
+    "campuses": [
+      {
+        "campusName": "Uxbridge Campus",
+        "address": "  Park Road, Uxbridge, Middlesex",
+        "postcode": "UB8 1NQ"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "parentId": "1005",
+    "collegeName": "Uxbridge College",
+    "type": "GFEC",
+    "website": "https://www.harrow.ac.uk/",
+    "campuses": [
+      {
+        "campusName": "Uxbridge Campus",
+        "address": "  Park Road, Uxbridge, Middlesex",
+        "postcode": "UB8 1NQ"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "parentId": "1005",
+    "collegeName": "Richmond upon Thames College",
+    "type": "GFEC",
+    "website": "https://www.rutc.ac.uk/",
+    "campuses": [
+      {
+        "address": "Langhorn Drive, Twickenham, Middlesex",
+        "postcode": "TW2 7SJ"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "collegeName": "Hartlepool College of Further Education",
+    "type": "GFEC",
+    "URN": "130567",
+    "website": "https://www.hartlepoolfe.ac.uk/",
+    "campuses": [
+      {
+        "address": "Stockton Street, Hartlepool",
+        "postcode": "TS24 7NT"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "collegeName": "Havant and South Downs College",
+    "type": "GFEC",
+    "URN": "130695",
+    "website": "https://www.hsdc.ac.uk/",
+    "campuses": [
+      {
+        "campusName": "South Downs",
+        "address": "College Road, Waterlooville, Hampshire",
+        "postcode": "PO7 8AA"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "collegeName": "Heart of Worcestershire College",
+    "type": "GFEC",
+    "URN": "130713",
+    "website": "https://www.howcollege.ac.uk/",
+    "campuses": [
+      {
+        "campusName": "Redditch Campus",
+        "address": "Peakman Street, Redditch",
+        "postcode": "B98 8DW"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "parentId": "1006",
+    "collegeName": "Wakefield College",
+    "type": "GFEC",
+    "website": "https://www.wakefield.ac.uk/",
+    "campuses": [
+      {
+        "campusName": "Wakefield City Campus",
+        "address": "Margaret Street, Wakefield, West Yorkshire",
+        "postcode": "WF1 2DH"
+      },
+      {
+        "campusName": "Casleford College",
+        "address": "Thunderhead Ridge, Castleford, West Yorkshire",
+        "postcode": "WF10 4UA"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "collegeName": "Herefordshire, Ludlow and North Shropshire College",
+    "type": "GFEC",
+    "URN": "130710",
+    "website": "https://hlnsc.ac.uk/",
+    "campuses": [
+      {
+        "campusName": "Herefordshire College ",
+        "address": "Folly Lane, Hereford",
+        "postcode": "HR1 1LS"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "collegeName": "Hereward College of Further Education",
+    "type": "GFEC",
+    "URN": "130474",
+    "website": "https://www.hereward.ac.uk/",
+    "campuses": [
+      {
+        "address": "Bramston Crescent, Tile Hill Lane, Tile Hill, Coventry, West Midlands",
+        "postcode": "CV4 9SW"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "collegeName": "Hertford Regional College",
+    "type": "GFEC",
+    "URN": "130722",
+    "website": "https://www.hrc.ac.uk/",
+    "campuses": [
+      {
+        "campusName": "Ware Campus",
+        "address": "London Road, Ware, Hertfordshire",
+        "postcode": "SG12 9JF"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "collegeName": "Hopwood Hall College",
+    "type": "GFEC",
+    "URN": "130507",
+    "website": "https://www.hopwood.ac.uk/",
+    "campuses": [
+      {
+        "campusName": " Middleton Campus",
+        "address": "Rochdale Road, Middleton, Manchester, Greater Manchester",
+        "postcode": "M24 6XH"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "collegeName": "Hugh Baird College",
+    "type": "GFEC",
+    "URN": "130490",
+    "website": "https://www.hughbaird.ac.uk/",
+    "campuses": [
+      {
+        "campusName": "Balliol Road Campus",
+        "address": "Balliol Road, Bootle",
+        "postcode": "L20 7EW"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "collegeName": "Hull College",
+    "type": "GFEC",
+    "URN": "130579",
+    "website": "https://hull-college.ac.uk/",
+    "campuses": [
+      {
+        "address": "Wilberforce Drive, Kingston-upon-Hull",
+        "postcode": "HU1 3DG"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "parentId": "1007",
+    "collegeName": "Peterborough College",
+    "type": "GFEC",
+    "website": "https://www.peterborough.ac.uk/",
+    "campuses": [
+      {
+        "address": "Park Crescent, Peterborough",
+        "postcode": "PE1 4DZ"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "parentId": "1007",
+    "collegeName": "Stamford College",
+    "type": "GFEC",
+    "website": "https://stamford.ac.uk/",
+    "campuses": [
+      {
+        "address": "Drift Road, Stamford, Lincolnshire",
+        "postcode": "PE9 1XA"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "collegeName": "Kendal College",
+    "type": "GFEC",
+    "URN": "130631",
+    "website": "https://kendal.ac.uk/",
+    "campuses": [
+      {
+        "campusName": "Milnthorpe Road Campus",
+        "address": "Milnthorpe Road, Kendal, Cumbria",
+        "postcode": "LA9 5AY"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "collegeName": "Kirklees College",
+    "type": "GFEC",
+    "URN": "130537",
+    "website": "https://www.kirkleescollege.ac.uk/",
+    "campuses": [
+      {
+        "campusName": "Huddersfield Centre",
+        "address": "Waterfront Quarter, Manchester Road, Huddersfield",
+        "postcode": "HD1 3LD"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "collegeName": "Lakes College, West Cumbria",
+    "type": "GFEC",
+    "URN": "130632",
+    "website": "https://www.lcwc.ac.uk/",
+    "campuses": [
+      {
+        "address": "Hallwood Road, Lillyhall Business Park, Lillyhall, Workington, Cumbria",
+        "postcode": "CA14 4JN"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "collegeName": "Lancaster and Morecambe College",
+    "type": "GFEC",
+    "URN": "130737",
+    "website": "https://www.lmc.ac.uk/",
+    "campuses": [
+      {
+        "address": "Morecambe Road, Lancaster, Lancashire",
+        "postcode": "LA1 2TY"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "collegeName": "Leeds College of Building",
+    "type": "GFEC",
+    "URN": "130542",
+    "website": "https://www.lcb.ac.uk/",
+    "campuses": [
+      {
+        "address": "North Street, Leeds, West Yorkshire",
+        "postcode": "LS2 7QT"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "collegeName": "Leicester College",
+    "type": "GFEC",
+    "URN": "131863",
+    "website": "https://leicestercollege.ac.uk/",
+    "campuses": [
+      {
+        "campusName": "Freemen’s Park Campus",
+        "address": "Welford Road, Leicester",
+        "postcode": "LE2 7LW"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "collegeName": "Lincoln College",
+    "type": "GFEC",
+    "URN": "130762",
+    "website": "https://www.lincolncollege.ac.uk/",
+    "campuses": [
+      {
+        "address": "Monks Road Lincoln",
+        "postcode": "LN2 5HQ"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "collegeName": "London South East Colleges (LSEC)",
+    "type": "GFEC",
+    "URN": "130430",
+    "website": "https://www.lsec.ac.uk/",
+    "campuses": [
+      {
+        "campusName": "Bromley Campus",
+        "address": "Rookery Lane, Bromley",
+        "postcode": "BR2 8HE"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "collegeName": "Loughborough College",
+    "type": "GFEC",
+    "URN": "130748",
+    "website": "https://www.loucoll.ac.uk/",
+    "campuses": [
+      {
+        "address": "Radmoor Road, Loughborough, Leicestershire",
+        "postcode": "LE11 3BT"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "parentId": "1008",
+    "collegeName": "The Manchester College",
+    "type": "GFEC",
+    "website": "https://www.tmc.ac.uk/",
+    "campuses": [
+      {
+        "campusName": "Wythenshawe Campus (Howard House)",
+        "address": "Brownley Road, Wythenshawe, Manchester",
+        "postcode": "M22 9UH"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "parentId": "1009",
+    "collegeName": "Leeds City College",
+    "type": "GFEC",
+    "website": "https://leedscitycollege.ac.uk/",
+    "campuses": [
+      {
+        "campusName": "Park Lane Campus",
+        "address": "Park Lane, Leeds",
+        "postcode": "LS3 1AA"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "parentId": "1009",
+    "collegeName": "Keighley College",
+    "type": "GFEC",
+    "website": "https://keighleycollege.ac.uk/",
+    "campuses": [
+      {
+        "address": "Bradford Road, Keighley, West Yorkshire",
+        "postcode": "BD21 4HQ"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "parentId": "1009",
+    "collegeName": "Harrogate College",
+    "type": "GFEC",
+    "website": "https://harrogate-college.ac.uk/",
+    "campuses": [
+      {
+        "address": "Hornbeam Park Ave, Harrogate",
+        "postcode": "HG2 8QT"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "collegeName": "Macclesfield College",
+    "type": "GFEC",
+    "URN": "130621",
+    "website": "https://macclesfield.ac.uk/",
+    "campuses": [
+      {
+        "address": "Park Lane, Macclesfield, Cheshire",
+        "postcode": "SK11 8LF"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "collegeName": "Middlesbrough College",
+    "type": "GFEC",
+    "URN": "130570",
+    "website": "https://www.mbro.ac.uk/",
+    "campuses": [
+      {
+        "address": "Dock Street, Middlesbrough",
+        "postcode": "TS2 1AD"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "collegeName": "MidKent College",
+    "type": "GFEC",
+    "URN": "130726",
+    "website": "https://www.midkent.ac.uk/",
+    "campuses": [
+      {
+        "campusName": "Medway Campus",
+        "address": "Medway Road, Gillingham, Kent",
+        "postcode": "ME7 1FN"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "collegeName": "Milton Keynes College",
+    "type": "GFEC",
+    "URN": "130609",
+    "website": "https://mkcollege.ac.uk/",
+    "campuses": [
+      {
+        "campusName": "Chaffron Way Campus",
+        "address": "Woughton Campus West, Leadenhall",
+        "postcode": "MK6 5LP"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "parentId": "1010",
+    "collegeName": "Carlisle College",
+    "type": "GFEC",
+    "website": "https://www.ncgrp.co.uk/ncg-colleges/carlisle-college/",
+    "campuses": [
+      {
+        "address": "Victoria Place, Carlisle",
+        "postcode": "CA1 1HS"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "parentId": "1010",
+    "collegeName": "Kidderminster College",
+    "type": "GFEC",
+    "website": "https://www.ncgrp.co.uk/ncg-colleges/kidderminster-college/",
+    "campuses": [
+      {
+        "address": "Market Street, Kidderminster",
+        "postcode": "DY10 1AB"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "parentId": "1010",
+    "collegeName": "Lewisham College",
+    "type": "GFEC",
+    "website": "https://www.ncgrp.co.uk/ncg-colleges/lewisham-college/",
+    "campuses": [
+      {
+        "address": "Lewisham Way, London",
+        "postcode": "SE4 1UT"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "parentId": "1010",
+    "collegeName": "Newcastle College",
+    "type": "GFEC",
+    "website": "https://www.ncgrp.co.uk/ncg-colleges/newcastle-college/",
+    "campuses": [
+      {
+        "campusName": "Rye Hill Campus",
+        "address": "Scotswood Road, Newcastle upon Tyne",
+        "postcode": "NE4 7SA"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "parentId": "1010",
+    "collegeName": "Southwark College",
+    "type": "GFEC",
+    "website": "https://www.ncgrp.co.uk/ncg-colleges/southwark-college/",
+    "campuses": [
+      {
+        "address": "The Cut, London",
+        "postcode": "SE1 8LF"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "parentId": "1010",
+    "collegeName": "West Lancashire College",
+    "type": "GFEC",
+    "website": "https://www.ncgrp.co.uk/ncg-colleges/west-lancashire-college/",
+    "campuses": [
+      {
+        "address": "College Way, Skelmersdale",
+        "postcode": "WN8 6LH"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "collegeName": "Nelson and Colne College",
+    "type": "GFEC",
+    "URN": "130738",
+    "website": "https://www.nelson.ac.uk/",
+    "campuses": [
+      {
+        "campusName": "",
+        "address": "Scotland Road, Nelson, Lancashire",
+        "postcode": "BB9 7YT"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "collegeName": "New City College",
+    "type": "GFEC",
+    "URN": "130418",
+    "website": "https://www.ncclondon.ac.uk/",
+    "campuses": [
+      {
+        "campusName": "Tower Hamlets Campus",
+        "address": "Poplar High Street, London",
+        "postcode": "E14 0AF"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "collegeName": "New College Durham",
+    "type": "GFEC",
+    "URN": "130659",
+    "website": "https://www.newcollegedurham.ac.uk/",
+    "campuses": [
+      {
+        "address": "New College Durham, Framwellgate Moor Campus, Durham",
+        "postcode": "DH1 5ES"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "collegeName": "New College, Swindon",
+    "type": "GFEC",
+    "URN": "130851",
+    "website": "https://www.newcollege.ac.uk/",
+    "campuses": [
+      {
+        "campusName": "Queens Drive Campus",
+        "address": "New College Drive, Swindon",
+        "postcode": "SN3 1AH"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "collegeName": "Newbury College",
+    "type": "GFEC",
+    "URN": "130602",
+    "website": "https://newbury-college.ac.uk/",
+    "campuses": [
+      {
+        "address": "Monks Lane, NewburyRG14 7TD",
+        "postcode": "RG14 7TD"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "collegeName": "Newcastle and Stafford Colleges Group (NSCG)",
+    "type": "GFEC",
+    "URN": "130812",
+    "website": "https://nscg.ac.uk/",
+    "campuses": [
+      {
+        "campusName": "Newcastle Campus",
+        "address": "Knutton Lane, Staffordshire",
+        "postcode": "ST5 2GB"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "collegeName": "Newham College of Further Education",
+    "type": "GFEC",
+    "URN": "130451",
+    "website": "https://www.newham.ac.uk/",
+    "campuses": [
+      {
+        "campusName": "East Ham Campus",
+        "address": "High Street South, East Ham, London",
+        "postcode": "E6 6ER"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "collegeName": "North East Surrey College of Technology",
+    "type": "GFEC",
+    "URN": "130822",
+    "website": "https://www.nescot.ac.uk/",
+    "campuses": [
+      {
+        "address": "Reigate Road, Ewell, Epsom, Surrey",
+        "postcode": "KT17 3DS"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "collegeName": "North Hertfordshire College",
+    "type": "GFEC",
+    "URN": "130721",
+    "website": "https://www.nhc.ac.uk/",
+    "campuses": [
+      {
+        "campusName": "Stevenage Campus",
+        "address": "Monkswood Way, Stevenage, Hertfordshire",
+        "postcode": "SG1 1LA"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "collegeName": "North Kent College",
+    "type": "GFEC",
+    "URN": "130725",
+    "website": "https://www.northkent.ac.uk/",
+    "campuses": [
+      {
+        "campusName": "Dartford Campus",
+        "address": "Oakfield Lane, Dartford, Kent",
+        "postcode": "DA1 2JT"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "collegeName": "North Warwickshire and South Leicestershire College",
+    "type": "GFEC",
+    "URN": "130836",
+    "website": "https://www.nwslc.ac.uk/",
+    "campuses": [
+      {
+        "campusName": "Nuneaton Campus",
+        "address": "Hinckley Road, Nuneaton",
+        "postcode": "CV11 6BH"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "collegeName": "Northampton College",
+    "type": "GFEC",
+    "URN": "130769",
+    "website": "https://www.northamptoncollege.ac.uk/",
+    "campuses": [
+      {
+        "campusName": "Booth Lane Campus",
+        "address": "Booth Lane, Northampton",
+        "postcode": "NN3 3RF"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "collegeName": "Nottingham College",
+    "type": "GFEC",
+    "URN": "130776",
+    "website": "https://www.nottinghamcollege.ac.uk/",
+    "campuses": [
+      {
+        "campusName": "Adams Building",
+        "address": "Stoney Street, Nottingham, Nottinghamshire",
+        "postcode": "NG1 1NG"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "collegeName": "Oaklands College",
+    "type": "GFEC",
+    "URN": "130723",
+    "website": "https://www.oaklands.ac.uk/",
+    "campuses": [
+      {
+        "campusName": "St Albans Campus",
+        "address": "Hatfield Road, St Albans, Hertfordshire",
+        "postcode": "AL4 0JA"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "parentId": "1011",
+    "collegeName": "East Surrey College",
+    "type": "GFEC",
+    "website": "https://www.esc.ac.uk/",
+    "campuses": [
+      {
+        "address": "Gatton Point, London Road, Redhill, Surrey",
+        "postcode": "RH1 2JX"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "parentId": "1011",
+    "collegeName": "John Ruskin College",
+    "type": "GFEC",
+    "website": "https://www.johnruskin.ac.uk/",
+    "campuses": [
+      {
+        "address": "John Ruskin College, Selsdon Park Road, South Croydon",
+        "postcode": "CR2 8JJ"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "collegeName": "Petroc",
+    "type": "GFEC",
+    "URN": "130646",
+    "website": "https://www.petroc.ac.uk/",
+    "campuses": [
+      {
+        "campusName": "North Devon Campus",
+        "address": "Old Sticklepath Hill, Barnstaple, Devon",
+        "postcode": "EX31 2BQ"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "collegeName": "Preston College",
+    "type": "GFEC",
+    "URN": "130740",
+    "website": "https://www.preston.ac.uk/",
+    "campuses": [
+      {
+        "address": "St Vincent’s Road, Fulwood, Preston",
+        "postcode": "PR2 8UR"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "collegeName": "Riverside College",
+    "type": "GFEC",
+    "URN": "130622",
+    "website": "https://www.riversidecollege.ac.uk/",
+    "campuses": [
+      {
+        "address": "Kingsway, Widnes, Cheshire",
+        "postcode": "WA8 7QQ"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "parentId": "1012",
+    "collegeName": "Rotherham College",
+    "type": "GFEC",
+    "website": "https://www.rotherham.ac.uk/",
+    "campuses": [
+      {
+        "campusName": "Town Centre Campus",
+        "address": "Eastwood Lane, Rotherham",
+        "postcode": "S65 1EG"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "parentId": "1012",
+    "collegeName": "Dearne Valley College",
+    "type": "GFEC",
+    "website": "https://www.dearne-coll.ac.uk/",
+    "campuses": [
+      {
+        "campusName": "Manvers Park",
+        "address": "Wath upon Dearne, Swinton, Rotherham",
+        "postcode": "S63 7EW"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "parentId": "1012",
+    "collegeName": "North Notts College",
+    "type": "GFEC",
+    "website": "https://www.nnc.ac.uk/",
+    "campuses": [
+      {
+        "campusName": "Worksop Campus",
+        "address": "Carlton Road, Worksop",
+        "postcode": "S81 7HP"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "collegeName": "Runshaw College",
+    "type": "GFEC",
+    "URN": "130741",
+    "website": "https://www.runshaw.ac.uk/",
+    "campuses": [
+      {
+        "campusName": "Leyland Campus",
+        "address": "Langdale Road, Leyland, Lancashire",
+        "postcode": "PR25 3DQ"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "collegeName": "Salford City College",
+    "type": "GFEC",
+    "URN": "130509",
+    "website": "https://www.salfordcc.ac.uk/",
+    "campuses": [
+      {
+        "address": "Walkden Road, Worsley",
+        "postcode": "M28 7QD"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "collegeName": "Sandwell College",
+    "type": "GFEC",
+    "URN": "130479",
+    "website": "https://www.sandwell.ac.uk/",
+    "campuses": [
+      {
+        "campusName": "Central Campus",
+        "address": "1 Spon Lane, West Bromwich",
+        "postcode": "B70 6AW"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "collegeName": "Shipley College",
+    "type": "GFEC",
+    "URN": "130534",
+    "website": "https://www.shipley.ac.uk/",
+    "campuses": [
+      {
+        "address": "Victoria Road, Saltaire, West Yorkshire",
+        "postcode": "BD18 3LQ"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "collegeName": "St Helens College",
+    "type": "GFEC",
+    "URN": "130488",
+    "website": "https://www.sthelens.ac.uk/",
+    "campuses": [
+      {
+        "campusName": "Town Centre Campus",
+        "address": "Water Street, Saint Helens",
+        "postcode": "WA10 1PP"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "collegeName": "Solihull College and University Centre",
+    "type": "GFEC",
+    "URN": "130481",
+    "website": "https://www.solihull.ac.uk/",
+    "campuses": [
+      {
+        "campusName": "Blossomfield Campus",
+        "address": "Blossomfield Road, Solihull, West Midlands",
+        "postcode": "B91 1SB"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "collegeName": "South and City College Birmingham",
+    "type": "GFEC",
+    "URN": "130461",
+    "website": "https://www.sccb.ac.uk/",
+    "campuses": [
+      {
+        "campusName": "Digbeth Campus",
+        "address": "High Street Deritend, Birmingham",
+        "postcode": "B5 5SU"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "parentId": "1013",
+    "collegeName": "Lambeth College",
+    "type": "FE",
+    "website": "https://www.southbankcolleges.ac.uk/",
+    "campuses": [
+      {
+        "campusName": "Clapham Centre",
+        "address": "45 Clapham Common South Side, London",
+        "postcode": "SW4 9BL"
+      }
+    ]
+  }
+  {
+    "id": "",
+    "collegeName": "South Devon College",
+    "type": "GFEC",
+    "URN": "130648",
+    "website": "https://www.southdevon.ac.uk/",
+    "campuses": [
+      {
+        "campusName": "Paignton Campus",
+        "address": "Vantage Point, Long Road, Paignton",
+        "postcode": "TQ4 7EJ"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "collegeName": "South Essex College of Further and Higher Education",
+    "type": "GFEC",
+    "URN": "130672",
+    "website": "https://www.southessex.ac.uk/",
+    "campuses": [
+      {
+        "campusName": "Southend Campus",
+        "address": "Luker Road, Southend-on-Sea",
+        "postcode": "SS1 1ND"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "collegeName": "South Gloucestershire and Stroud College",
+    "type": "GFEC",
+    "URN": "139238",
+    "website": "https://www.sgscol.ac.uk/",
+    "campuses": [
+      {
+        "campusName": "Filton Campus",
+        "address": "Filton Avenue, Bristol",
+        "postcode": "BS34 7AT"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "collegeName": "South Staffordshire College",
+    "type": "GFEC",
+    "URN": "135658",
+    "website": "https://www.southstaffs.ac.uk/",
+    "campuses": [
+      {
+        "campusName": "Rodbaston College",
+        "address": "Penkridge, Staffordshire",
+        "postcode": "ST19 5PH"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "collegeName": "Southport College",
+    "type": "GFEC",
+    "URN": "130491",
+    "website": "https://www.southport.ac.uk/",
+    "campuses": [
+      {
+        "address": "Mornington Road, Southport, Merseyside",
+        "postcode": "PR9 0TT"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "collegeName": "Stanmore College",
+    "type": "GFEC",
+    "URN": "130440",
+    "website": "https://stanmore.ac.uk/",
+    "campuses": [
+      {
+        "address": "Elm Park, Stanmore",
+        "postcode": "HA7 4BQ"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "collegeName": "Stoke-on-Trent College",
+    "type": "GFEC",
+    "URN": "130815",
+    "website": "https://www.stokecoll.ac.uk/",
+    "campuses": [
+      {
+        "campusName": "Cauldon Campus",
+        "address": "Stoke Road, Shelton, Stoke-on-Trent, Staffordshire",
+        "postcode": "ST4 2DG"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "collegeName": "Strode College",
+    "type": "GFEC",
+    "URN": "130806",
+    "website": "https://www.strode-college.ac.uk/",
+    "campuses": [
+      {
+        "address": "Church Road, Street, Somerset",
+        "postcode": "BA16 0AB"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "collegeName": "Suffolk New College",
+    "type": "GFEC",
+    "URN": "130820",
+    "website": "https://www.suffolk.ac.uk/",
+    "campuses": [
+      {
+        "campusName": "Ipswich Campus",
+        "address": "Rope Walk, Ipswich, Suffolk",
+        "postcode": "IP4 1LT"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "collegeName": "Sunderland College",
+    "type": "GFEC",
+    "URN": "131347",
+    "website": "https://sunderlandcollege.ac.uk/",
+    "campuses": [
+      {
+        "campusName": "Bede Campus",
+        "address": "Durham Road, Sunderland",
+        "postcode": "SR3 4AH"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "collegeName": "Tameside College",
+    "type": "GFEC",
+    "URN": "130516",
+    "website": "https://www.tameside.ac.uk/",
+    "campuses": [
+      {
+        "address": "Beaufort Road, Ashton-under-Lyne, Greater Manchester",
+        "postcode": "OL6 6NX"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "parentId": "1014",
+    "collegeName": "East Riding College",
+    "type": "GFEC",
+    "website": "",
+    "campuses": [
+      {
+        "campusName": "Beverley Campus",
+        "address": "Flemingate Centre, Armstrong Way, Beverley, East Riding of Yorkshire",
+        "postcode": "HU17 0GH"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "collegeName": "Telford College",
+    "type": "GFEC",
+    "URN": "130796",
+    "website": "https://www.telfordcollege.ac.uk/",
+    "campuses": [
+      {
+        "address": "Haybridge Road, Wellington, Telford, Shropshire",
+        "postcode": "TF1 2NP"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "parentId": "1015",
+    "collegeName": "Bedford College",
+    "type": "GFEC",
+    "website": "https://bedfordcollegegroup.ac.uk/colleges-and-campuses/bedford-college/",
+    "campuses": [
+      {
+        "address": "Cauldwell Street, Bedford, Bedfordshire",
+        "postcode": "MK42 9AH"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "parentId": "1015",
+    "collegeName": "Central Bedfordshire College",
+    "type": "GFEC",
+    "website": "https://bedfordcollegegroup.ac.uk/central-bedfordshire-college/",
+    "campuses": [
+      {
+        "address": "Dunstable, Bedfordshire",
+        "postcode": "LU5 4HG"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "parentId": "1015",
+    "collegeName": "National College for Motorsport",
+    "type": "GFEC",
+    "website": "https://bedfordcollegegroup.ac.uk/colleges-and-campuses/bedford-college/",
+    "campuses": [
+      {
+        "address": "Unit 2285, silverstone technology park, Towcester",
+        "postcode": "NN12 8TN"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "parentId": "1015",
+    "collegeName": "Shuttleworth College",
+    "type": "GFEC",
+    "website": "https://bedfordcollegegroup.ac.uk/colleges-and-campuses/shuttleworth-college/",
+    "campuses": [
+      {
+        "address": "Old Warden Park, Biggleswade, Bedfordshire",
+        "postcode": "SG18 9DX"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "parentId": "1015",
+    "collegeName": "Tresham College",
+    "type": "GFEC",
+    "website": "https://bedfordcollegegroup.ac.uk/colleges-and-campuses/tresham-college/",
+    "campuses": [
+      {
+        "address": "Kettering Campus, Windmill Avenue, Kettering, Northamptonshire",
+        "postcode": "NN15 6ER"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "collegeName": "The City of Liverpool College",
+    "type": "GFEC",
+    "URN": "130487",
+    "website": "https://www.liv-coll.ac.uk/",
+    "campuses": [
+      {
+        "campusName": "Clarence Street Campus",
+        "address": "  Clarence Street, Liverpool, Merseyside",
+        "postcode": "L3 5TP"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "collegeName": "College of West Anglia",
+    "type": "GFEC",
+    "URN": "130763",
+    "website": "https://cwa.ac.uk/",
+    "campuses": [
+      {
+        "campusName": "King's Lynn Campus",
+        "address": "Tennyson Avenue, King’s Lynn, Norfolk",
+        "postcode": "PE30 2QW"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "parentId": "1016",
+    "collegeName": "Cornwall College",
+    "type": "GFEC",
+    "website": "https://www.cornwall.ac.uk/",
+    "campuses": [
+      {
+        "campusName": "Cornwall College St Austell",
+        "address": "Tregonissey Road, St Austell, Cornwall",
+        "postcode": "PL25 4DJ"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "parentId": "1016",
+    "collegeName": "Duchy College",
+    "type": "GFEC",
+    "website": "https://duchy.ac.uk/",
+    "campuses": [
+      {
+        "campusName": "Rosewarne Campus",
+        "address": "Camborne, Cornwall",
+        "postcode": "TR14 0AB"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "parentId": "1016",
+    "collegeName": "Bicton College",
+    "type": "GFEC",
+    "website": "https://bicton.ac.uk/",
+    "campuses": [
+      {
+        "address": "East Budleigh, Budleigh Salterton, Devon",
+        "postcode": "EX9 7BH"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "parentId": "1017",
+    "collegeName": "Redcar & Cleveland College",
+    "type": "GFEC",
+    "website": "https://www.cleveland.ac.uk/",
+    "campuses": [
+      {
+        "address": "Corporation Road, Redcar",
+        "postcode": "TS10 1EZ"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "parentId": "1017",
+    "collegeName": "Stockton Riverside College",
+    "type": "GFEC",
+    "website": "https://www.stockton.ac.uk/",
+    "campuses": [
+      {
+        "address": "Harvard Avenue, Stockton-On-Tees",
+        "postcode": "TS17 6FB"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "collegeName": "The Isle of Wight College",
+    "type": "GFEC",
+    "URN": "130724",
+    "website": "https://www.iwcollege.ac.uk/",
+    "campuses": [
+      {
+        "campusName": "Newport Campus",
+        "address": "Medina Way, Newport",
+        "postcode": "PO30 5TA"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "collegeName": "The Oldham College",
+    "type": "GFEC",
+    "URN": "130505",
+    "website": "https://www.oldham.ac.uk/",
+    "campuses": [
+      {
+        "address": "Rochdale Road, Oldham, Lancashire",
+        "postcode": "OL9 6AA"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "collegeName": "The Sheffield College",
+    "type": "GFEC",
+    "URN": "130531",
+    "website": "https://www.sheffcol.ac.uk/",
+    "campuses": [
+      {
+        "campusName": "City Campus",
+        "address": "Granville Road, Sheffield",
+        "postcode": "S2 2RL"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "parentId": "1018",
+    "collegeName": "Kingston College",
+    "type": "GFEC",
+    "website": "https://stcg.ac.uk/kingston-college",
+    "campuses": [
+      {
+        "campusName": "Kingston Hall Road Centre",
+        "address": "Kingston Hall Road, Surrey",
+        "postcode": "KT1 2AQ"
+      }
+    ]
+  },
+{
+    "id": "",
+    "parentId": "1018",
+    "collegeName": "Carshalton College",
+    "type": "GFEC",
+    "website": "https://stcg.ac.uk/carshalton-college",
+    "campuses": [
+      {
+        "address": "Nightingale Road, Carshalton, Surrey",
+        "postcode": "SM5 2EJ"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "parentId": "1018",
+    "collegeName": "South Thames College",
+    "type": "GFEC",
+    "website": "https://stcg.ac.uk/south-thames-college",
+    "campuses": [
+      {
+        "campusName": "Wandsworth Centre",
+        "address": "Wandsworth High Street, London",
+        "postcode": "SW18 2PP"
+      }
+    ]
+  },
+{
+    "id": "",
+    "parentId": "1018",
+    "collegeName": "Merton College",
+    "type": "GFEC",
+    "website": "https://stcg.ac.uk/merton-college",
+    "campuses": [
+      {
+        "address": "London Road, Morden",
+        "postcode": "SM4 5QX"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "parentId": "1019",
+    "collegeName": "West Herts College",
+    "type": "GFEC",
+    "website": "https://www.westherts.ac.uk/",
+    "campuses": [
+      {
+        "campusName": "Watford Campus",
+        "address": "Hempstead Road, Watford",
+        "postcode": "WD17 3EZ"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "parentId": "1019",
+    "collegeName": "Barnfield College",
+    "type": "GFEC",
+    "website": "https://www.barnfield.ac.uk/",
+    "campuses": [
+      {
+        "campusName": "Enterprise Way campus",
+        "address": "Enterprise Way, Luton",
+        "postcode": "LU3 4BU"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "parentId": "1020",
+    "collegeName": "Langley College",
+    "type": "GFEC",
+    "website": "https://www.langley.ac.uk/",
+    "campuses": [
+      {
+        "address": "Station Road, Langley, Berkshire",
+        "postcode": "SL3 8BY"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "collegeName": "Trafford College",
+    "type": "GFEC",
+    "URN": "130519",
+    "website": "https://trafford.ac.uk/",
+    "campuses": [
+      {
+        "campusName": "Stretford Campus",
+        "address": "Talbot Road, Stretford",
+        "postcode": "M32 OXH"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "collegeName": "Truro and Penwith College",
+    "type": "GFEC",
+    "URN": "130629",
+    "website": "https://www.truro-penwith.ac.uk/",
+    "campuses": [
+      {
+        "campusName": "Truro College",
+        "address": "College Road, Truro, Cornwall",
+        "postcode": "TR1 3XX"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "collegeName": "Tyne Coast College",
+    "type": "GFEC",
+    "URN": "130555",
+    "website": "https://www.tynecoast.ac.uk/",
+    "campuses": [
+      {
+        "campusName": "Westoe Campus",
+        "address": "St. George's Avenue, South Shields, Tyne and Wear",
+        "postcode": "NE34 6ET"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "collegeName": "Unified Seevic Palmer's College (USP)",
+    "type": "GFEC",
+    "URN": "130681",
+    "website": "https://www.uspcollege.ac.uk/",
+    "campuses": [
+      {
+        "campusName": "Seevic Campus",
+        "address": "Runnymede Chase, Benfleet, Essex",
+        "postcode": "SS7 1TW"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "parentId": "1021",
+    "collegeName": "City of Westminster College",
+    "type": "GFEC",
+    "website": "https://www.cwc.ac.uk/",
+    "campuses": [
+      {
+        "campusName": "Paddington Green Campus",
+        "address": "25 Paddington Green, London",
+        "postcode": "W2 1NB"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "parentId": "1021",
+    "collegeName": "College of North West London",
+    "type": "GFEC",
+    "website": "https://www.cnwl.ac.uk/",
+    "campuses": [
+      {
+        "campusName": "Willesden Campus",
+        "address": "Denzil Road, Dudden Hill Lane, London",
+        "postcode": "NW10 2XD"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "collegeName": "Vision West Nottinghamshire College",
+    "type": "GFEC",
+    "URN": "130777",
+    "website": "https://www.wnc.ac.uk/",
+    "campuses": [
+      {
+        "campusName": "Derby Road Campus",
+        "address": "Derby Road, Mansfield",
+        "postcode": "NG18 5BH"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "collegeName": "Walsall College",
+    "type": "GFEC",
+    "URN": "130483",
+    "website": "https://www.walsallcollege.ac.uk/",
+    "campuses": [
+      {
+        "campusName": "Wisemore Campus",
+        "address": "Littleton Street West, Walsall",
+        "postcode": "WS2 8ES"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "collegeName": "Waltham Forest College",
+    "type": "GFEC",
+    "URN": "130456",
+    "website": "https://www.waltham.ac.uk/",
+    "campuses": [
+      {
+        "address": "707 Forest Road, Walthamstow, London",
+        "postcode": "E17 4JB"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "collegeName": "Warrington and Vale Royal College",
+    "type": "GFEC",
+    "URN": "130617",
+    "website": "https://wvr.ac.uk/",
+    "campuses": [
+      {
+        "campusName": "Warrington campus",
+        "address": "Winwick Road, Warrington, Cheshire",
+        "postcode": "WA2 8QA"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "collegeName": "Warwickshire College Group",
+    "type": "GFEC",
+    "URN": "",
+    "website": "",
+    "campuses": [
+      {
+        "campusName": "",
+        "address": "",
+        "postcode": ""
+      }
+    ]
+  },
+  {
+    "id": "",
+    "collegeName": "West Suffolk College",
+    "type": "GFEC",
+    "URN": "",
+    "website": "",
+    "campuses": [
+      {
+        "campusName": "",
+        "address": "",
+        "postcode": ""
+      }
+    ]
+  },
+  {
+    "id": "",
+    "collegeName": "West Thames College",
+    "type": "GFEC",
+    "URN": "",
+    "website": "",
+    "campuses": [
+      {
+        "campusName": "",
+        "address": "",
+        "postcode": ""
+      }
+    ]
+  },
+  {
+    "id": "",
+    "collegeName": "Weston College",
+    "type": "GFEC",
+    "URN": "",
+    "website": "",
+    "campuses": [
+      {
+        "campusName": "",
+        "address": "",
+        "postcode": ""
+      }
+    ]
+  },
+  {
+    "id": "",
+    "collegeName": "Weymouth College",
+    "type": "GFEC",
+    "URN": "",
+    "website": "",
+    "campuses": [
+      {
+        "campusName": "",
+        "address": "",
+        "postcode": ""
+      }
+    ]
+  },
+  {
+    "id": "",
+    "collegeName": "Wigan and Leigh College",
+    "type": "GFEC",
+    "URN": "",
+    "website": "",
+    "campuses": [
+      {
+        "campusName": "",
+        "address": "",
+        "postcode": ""
+      }
+    ]
+  },
+  {
+    "id": "",
+    "collegeName": "Wiltshire College and University Centre",
+    "type": "GFEC",
+    "URN": "",
+    "website": "",
+    "campuses": [
+      {
+        "campusName": "",
+        "address": "",
+        "postcode": ""
+      }
+    ]
+  },
+  {
+    "id": "",
+    "collegeName": "Wirral Metropolitan College",
+    "type": "GFEC",
+    "URN": "",
+    "website": "",
+    "campuses": [
+      {
+        "campusName": "",
+        "address": "",
+        "postcode": ""
+      }
+    ]
+  },
+  {
+    "id": "",
+    "collegeName": "Yeovil College",
+    "type": "GFEC",
+    "URN": "",
+    "website": "",
+    "campuses": [
+      {
+        "campusName": "",
+        "address": "",
+        "postcode": ""
+      }
+    ]
+  },
+  {
+    "id": "",
+    "collegeName": "York College",
+    "type": "GFEC",
+    "URN": "",
+    "website": "",
+    "campuses": [
+      {
+        "campusName": "",
+        "address": "",
+        "postcode": ""
+      }
+    ]
+  }
+]
