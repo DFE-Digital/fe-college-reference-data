@@ -2760,13 +2760,13 @@
     "id": "",
     "collegeName": "Weston College",
     "type": "GFEC",
-    "URN": "",
-    "website": "",
+    "URN": "130564",
+    "website": "https://www.weston.ac.uk/",
     "campuses": [
       {
-        "campusName": "",
-        "address": "",
-        "postcode": ""
+        "campusName": "Knightstone Campus",
+        "address": "Knightstone Road, Weston-super-Mare",
+        "postcode": "BS23 2AL"
       }
     ]
   },
@@ -2774,13 +2774,13 @@
     "id": "",
     "collegeName": "Weymouth College",
     "type": "GFEC",
-    "URN": "",
-    "website": "",
+    "URN": "130653",
+    "website": "https://www.weymouth.ac.uk/",
     "campuses": [
       {
-        "campusName": "",
-        "address": "",
-        "postcode": ""
+        "campusName": "Main Campus",
+        "address": "Cranford Avenue, Weymouth, Dorset",
+        "postcode": "DT4 7LQ"
       }
     ]
   },
