@@ -129,6 +129,12 @@
     "name": "United Colleges Group",
     "URN": "130423",
     "website": "https://www.ucg.ac.uk/"
+  },
+  {
+    "groupId": "1022",
+    "name": "Warwickshire College Group",
+    "URN": "130835",
+    "website": "https://wcg.ac.uk/"
   }
 ]
 
@@ -2672,15 +2678,53 @@
   },
   {
     "id": "",
-    "collegeName": "Warwickshire College Group",
+    "parentId": "1022",
+    "collegeName": "Royal Leamington Spa College",
     "type": "GFEC",
-    "URN": "",
-    "website": "",
+    "website": "https://wcg.ac.uk/page/93/royal-leamington-spa-college",
     "campuses": [
       {
-        "campusName": "",
-        "address": "",
-        "postcode": ""
+        "address": "Warwick New Road, Leamington Spa, Warwickshire",
+        "postcode": "CV32 5JE"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "parentId": "1022",
+    "collegeName": "Rugby College",
+    "type": "GFEC",
+    "website": "https://wcg.ac.uk/page/94/rugby-college",
+    "campuses": [
+      {
+        "address": "Technology Drive, Rugby, Warwickshire",
+        "postcode": "CV21 1AR"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "parentId": "1022",
+    "collegeName": "Warwick Trident College",
+    "type": "GFEC",
+    "website": "https://wcg.ac.uk/page/97/warwick-trident-college",
+    "campuses": [
+      {
+        "address": "Trident Park, Poseidon Way, Warwick, Warwickshire",
+        "postcode": "CV34 6SW"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "parentId": "1022",
+    "collegeName": "Evesham New College",
+    "type": "GFEC",
+    "website": "https://wcg.ac.uk/page/98/evesham-college",
+    "campuses": [
+      {
+        "address": "Cheltenham Road, Evesham, Worcestershire",
+        "postcode": "WR11 1LP"
       }
     ]
   },
