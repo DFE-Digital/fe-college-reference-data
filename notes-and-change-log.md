@@ -1,11 +1,5 @@
 # Notes
 
-## General
-
-I've not been as consistent as I would like in how I've determined colleges and campuses. I think we need a way to manually flag if a college should be contacted or the parent should be contacted.
-
-
-
 ## Ada, National College for Digital Skills
 
 Should we exclude from the experiment because it is overly specialist?
