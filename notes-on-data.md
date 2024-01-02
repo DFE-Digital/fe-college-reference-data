@@ -206,3 +206,13 @@ Appears to have multiple colleges. Went with 1 because the website describes the
 Created a group with City of Westminster College and College of North West London.
 
 
+## Warwickshire College Group
+
+This group appears to have 6 colleges:
+- Royal Leamington Spa College
+- Rugby College
+- Moreton Morrell College
+- Pershore College
+- Warwick Trident College
+
+Created a group for Warwickshire College Group. Moreton Morrell College and Pershore College appear to be land-based and have not been included.

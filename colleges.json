@@ -129,6 +129,12 @@
     "name": "United Colleges Group",
     "URN": "130423",
     "website": "https://www.ucg.ac.uk/"
+  },
+  {
+    "groupId": "1022",
+    "name": "Warwickshire College Group",
+    "URN": "130835",
+    "website": "https://wcg.ac.uk/"
   }
 ]
 
@@ -2672,15 +2678,53 @@
   },
   {
     "id": "",
-    "collegeName": "Warwickshire College Group",
+    "parentId": "1022",
+    "collegeName": "Royal Leamington Spa College",
     "type": "GFEC",
-    "URN": "",
-    "website": "",
+    "website": "https://wcg.ac.uk/page/93/royal-leamington-spa-college",
     "campuses": [
       {
-        "campusName": "",
-        "address": "",
-        "postcode": ""
+        "address": "Warwick New Road, Leamington Spa, Warwickshire",
+        "postcode": "CV32 5JE"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "parentId": "1022",
+    "collegeName": "Rugby College",
+    "type": "GFEC",
+    "website": "https://wcg.ac.uk/page/94/rugby-college",
+    "campuses": [
+      {
+        "address": "Technology Drive, Rugby, Warwickshire",
+        "postcode": "CV21 1AR"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "parentId": "1022",
+    "collegeName": "Warwick Trident College",
+    "type": "GFEC",
+    "website": "https://wcg.ac.uk/page/97/warwick-trident-college",
+    "campuses": [
+      {
+        "address": "Trident Park, Poseidon Way, Warwick, Warwickshire",
+        "postcode": "CV34 6SW"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "parentId": "1022",
+    "collegeName": "Evesham New College",
+    "type": "GFEC",
+    "website": "https://wcg.ac.uk/page/98/evesham-college",
+    "campuses": [
+      {
+        "address": "Cheltenham Road, Evesham, Worcestershire",
+        "postcode": "WR11 1LP"
       }
     ]
   },
@@ -2688,13 +2732,13 @@
     "id": "",
     "collegeName": "West Suffolk College",
     "type": "GFEC",
-    "URN": "",
-    "website": "",
+    "URN": "130818",
+    "website": "https://www.wsc.ac.uk/",
     "campuses": [
       {
-        "campusName": "",
-        "address": "",
-        "postcode": ""
+        "campusName": "Sixth Form Campus",
+        "address": "Out Risbygate, Bury St Edmunds",
+        "postcode": "IP33 3RL"
       }
     ]
   },
@@ -2702,13 +2746,13 @@
     "id": "",
     "collegeName": "West Thames College",
     "type": "GFEC",
-    "URN": "",
-    "website": "",
+    "URN": "130447",
+    "website": "https://www.west-thames.ac.uk/",
     "campuses": [
       {
-        "campusName": "",
-        "address": "",
-        "postcode": ""
+        "campusName": "Isleworth Campus",
+        "address": "London Road, Isleworth, Middlesex",
+        "postcode": "TW7 4HS"
       }
     ]
   },
@@ -2716,13 +2760,13 @@
     "id": "",
     "collegeName": "Weston College",
     "type": "GFEC",
-    "URN": "",
-    "website": "",
+    "URN": "130564",
+    "website": "https://www.weston.ac.uk/",
     "campuses": [
       {
-        "campusName": "",
-        "address": "",
-        "postcode": ""
+        "campusName": "Knightstone Campus",
+        "address": "Knightstone Road, Weston-super-Mare",
+        "postcode": "BS23 2AL"
       }
     ]
   },
@@ -2730,13 +2774,13 @@
     "id": "",
     "collegeName": "Weymouth College",
     "type": "GFEC",
-    "URN": "",
-    "website": "",
+    "URN": "130653",
+    "website": "https://www.weymouth.ac.uk/",
     "campuses": [
       {
-        "campusName": "",
-        "address": "",
-        "postcode": ""
+        "campusName": "Main Campus",
+        "address": "Cranford Avenue, Weymouth, Dorset",
+        "postcode": "DT4 7LQ"
       }
     ]
   },
@@ -2744,13 +2788,13 @@
     "id": "",
     "collegeName": "Wigan and Leigh College",
     "type": "GFEC",
-    "URN": "",
-    "website": "",
+    "URN": "130521",
+    "website": "https://www.wigan-leigh.ac.uk/",
     "campuses": [
       {
-        "campusName": "",
-        "address": "",
-        "postcode": ""
+        "campusName": "Parsons Walk Centre",
+        "address": "Parson’s Walk, Wigan, Lancashire",
+        "postcode": "WN1 1RS"
       }
     ]
   },
@@ -2758,13 +2802,13 @@
     "id": "",
     "collegeName": "Wiltshire College and University Centre",
     "type": "GFEC",
-    "URN": "",
-    "website": "",
+    "URN": "132779",
+    "website": "https://www.wiltshire.ac.uk/",
     "campuses": [
       {
-        "campusName": "",
-        "address": "",
-        "postcode": ""
+        "campusName": "Chippenham Campus",
+        "address": "Cocklebury Road, Chippenham, Wiltshire",
+        "postcode": "SN15 3QD"
       }
     ]
   },
@@ -2772,13 +2816,13 @@
     "id": "",
     "collegeName": "Wirral Metropolitan College",
     "type": "GFEC",
-    "URN": "",
-    "website": "",
+    "URN": "130493",
+    "website": "http://www.wmc.ac.uk/",
     "campuses": [
       {
-        "campusName": "",
-        "address": "",
-        "postcode": ""
+        "campusName": "Conway Park Campus",
+        "address": "Europa Boulevard, Birkenhead",
+        "postcode": "CH41 4NT"
       }
     ]
   },
@@ -2786,13 +2830,12 @@
     "id": "",
     "collegeName": "Yeovil College",
     "type": "GFEC",
-    "URN": "",
-    "website": "",
+    "URN": "130805",
+    "website": "https://www.yeovil.ac.uk/",
     "campuses": [
       {
-        "campusName": "",
-        "address": "",
-        "postcode": ""
+        "address": "Mudford Road, Yeovil, Somerset",
+        "postcode": "BA21 4DR"
       }
     ]
   },
@@ -2800,13 +2843,12 @@
     "id": "",
     "collegeName": "York College",
     "type": "GFEC",
-    "URN": "",
-    "website": "",
+    "URN": "130594",
+    "website": "https://www.yorkcollege.ac.uk/",
     "campuses": [
       {
-        "campusName": "",
-        "address": "",
-        "postcode": ""
+        "address": "Sim Balk Lane, York, North Yorkshire",
+        "postcode": "YO23 2BB"
       }
     ]
   }
