@@ -2843,13 +2843,12 @@
     "id": "",
     "collegeName": "York College",
     "type": "GFEC",
-    "URN": "",
-    "website": "",
+    "URN": "130594",
+    "website": "https://www.yorkcollege.ac.uk/",
     "campuses": [
       {
-        "campusName": "",
-        "address": "",
-        "postcode": ""
+        "address": "Sim Balk Lane, York, North Yorkshire",
+        "postcode": "YO23 2BB"
       }
     ]
   }
