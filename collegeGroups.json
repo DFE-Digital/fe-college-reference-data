@@ -1,0 +1,163 @@
+[
+  {
+    "groupId": "1000",
+    "name": "Activate Learning",
+    "URN": "134153",
+    "UKPRN": "",
+    "website": "https://www.activatelearning.ac.uk/"
+  },
+  {
+    "groupId": "1001",
+    "name": "Capital City College Group (CCCG)",
+    "URN": "130421",
+    "UKPRN": "",
+    "website": "https://www.capitalccg.ac.uk/"
+  },
+  {
+    "id":"1002",
+    "name": "DN Colleges Group",
+    "URN": "130587",
+    "UKPRN": "",
+    "website": "https://www.dncolleges.ac.uk/"
+  },
+  {
+    "groupId": "1003",
+    "name": "South Hampshire College Group",
+    "URN": "130693",
+    "UKPRN": "",
+    "website": "https://www.shcg.ac.uk/"
+  },
+  {
+    "groupId": "1004",
+    "name": "East Kent Colleges Group (EKC Group)",
+    "URN": "130728",
+    "UKPRN": "",
+    "website": "https://www.ekcgroup.ac.uk/"
+  },
+  {
+    "groupId": "1005",
+    "name": "Harrow Richmond Uxbridge Colleges (HRUC)",
+    "URN": "130446",
+    "UKPRN": "",
+    "website": "https://www.hruc.ac.uk/"
+  },
+  {
+    "groupId": "1006",
+    "name": "Heart of Yorkshire Education Group",
+    "URN": "130549",
+    "UKPRN": "",
+    "website": "https://www.heartofyorkshire.ac.uk/"
+  },
+  {
+    "groupId": "1007",
+    "name": "Inspire Education Group",
+    "URN": "130613",
+    "UKPRN": "",
+    "website": "https://ieg.ac.uk/"
+  },
+  {
+    "groupId": "1008",
+    "name": "LTE Group (Learning, Training, Employment Group)",
+    "URN": "130613",
+    "UKPRN": "",
+    "website": "https://www.ltegroup.co.uk/"
+  },
+  {
+    "groupId": "1009",
+    "name": "Luminate Education Group",
+    "URN": "135771",
+    "UKPRN": "",
+    "website": "https://luminate.ac.uk/"
+  },
+  {
+    "groupId": "1010",
+    "name": "NCG (Newcastle College Group)",
+    "URN": "130552",
+    "UKPRN": "",
+    "website": "https://www.ncgrp.co.uk/"
+  },
+  {
+    "groupId": "1011",
+    "name": "Orbital South Colleges",
+    "URN": "130824",
+    "UKPRN": "",
+    "website": "https://www.esc.ac.uk/about-esc/about-us/orbital-south-colleges"
+  },
+  {
+    "groupId": "1012",
+    "name": "RNN Group",
+    "URN": "130527",
+    "UKPRN": "",
+    "website": "https://www.rnngroup.co.uk/"
+  },
+  {
+    "groupId": "1013",
+    "name": "London South Bank University Group (LSBU Group)",
+    "URN": "130413",
+    "UKPRN": "",
+    "website": "https://www.lsbu.ac.uk/about-us/lsbu-group"
+  },
+  {
+    "groupId": "1014",
+    "name": "TEC Partnership",
+    "URN": "130585",
+    "UKPRN": "",
+    "website": "https://tecpartnership.com/"
+  },
+  {
+    "groupId": "1015",
+    "name": "The Bedford College Group",
+    "URN": "130597",
+    "UKPRN": "",
+    "website": "https://bedfordcollegegroup.ac.uk/"
+  },
+  {
+    "groupId": "1016",
+    "name": "The Cornwall College Group",
+    "URN": "130627",
+    "UKPRN": ""
+  },
+  {
+    "groupId": "1017",
+    "name": "The Education Training Collective",
+    "URN": "130576",
+    "UKPRN": "",
+    "website": "https://www.the-etc.ac.uk/"
+  },
+  {
+    "groupId": "1018",
+    "name": "The South Thames College Group",
+    "URN": "130448",
+    "UKPRN": "",
+    "website": "https://stcg.ac.uk/"
+  },
+  {
+    "groupId": "1019",
+    "name": "West Herts College Group",
+    "URN": "130720",
+    "UKPRN": "",
+    "website": "https://www.westherts.ac.uk/about/whc-group"
+  },
+  {
+    "groupId": "1020",
+    "name": "Windsor Forest Colleges Group",
+    "URN": "130604",
+    "UKPRN": "",
+    "website": "https://www.windsor-forest.ac.uk/"
+  },
+  {
+    "groupId": "1021",
+    "name": "United Colleges Group",
+    "URN": "130423",
+    "UKPRN": "",
+    "website": "https://www.ucg.ac.uk/"
+  },
+  {
+    "groupId": "1022",
+    "name": "Warwickshire College Group",
+    "URN": "130835",
+    "UKPRN": "",
+    "website": "https://wcg.ac.uk/"
+  }
+]
+

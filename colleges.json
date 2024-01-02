@@ -1,144 +1,4 @@
-"collegeGroups": [
-  {
-    "groupId": "1000",
-    "name": "Activate Learning",
-    "URN": "134153",
-    "website": "https://www.activatelearning.ac.uk/"
-  },
-  {
-    "groupId": "1001",
-    "name": "Capital City College Group (CCCG)",
-    "URN": "130421",
-    "website": "https://www.capitalccg.ac.uk/"
-  },
-  {
-    "id":"1002",
-    "name": "DN Colleges Group",
-    "URN": "130587",
-    "website": "https://www.dncolleges.ac.uk/"
-  }
-  {
-    "groupId": "1003",
-    "name": "South Hampshire College Group",
-    "URN": "130693",
-    "website": "https://www.shcg.ac.uk/"
-  }
-  {
-    "groupId": "1004",
-    "name": "East Kent Colleges Group (EKC Group)",
-    "URN": "130728",
-    "website": "https://www.ekcgroup.ac.uk/"
-  },
-  {
-    "groupId": "1005",
-    "name": "Harrow Richmond Uxbridge Colleges (HRUC)",
-    "URN": "130446",
-    "website": "https://www.hruc.ac.uk/"
-  },
-  {
-    "groupId": "1006",
-    "name": "Heart of Yorkshire Education Group",
-    "URN": "130549",
-    "website": "https://www.heartofyorkshire.ac.uk/",
-  }
-  {
-    "groupId": "1007",
-    "name": "Inspire Education Group",
-    "URN": "130613",
-    "website": "https://ieg.ac.uk/",
-  },
-  {
-    "groupId": "1008",
-    "name": "LTE Group (Learning, Training, Employment Group)",
-    "URN": "130613",
-    "website": "https://www.ltegroup.co.uk/",
-  },
-  {
-    "groupId": "1009",
-    "name": "Luminate Education Group",
-    "URN": "135771",
-    "website": "https://luminate.ac.uk/"
-  },
-  {
-    "groupId": "1010",
-    "name": "NCG (Newcastle College Group)",
-    "URN": "130552",
-    "website": "https://www.ncgrp.co.uk/",
-  },
-  {
-    "groupId": "1011",
-    "name": "Orbital South Colleges",
-    "URN": "130824",
-    "website": "https://www.esc.ac.uk/about-esc/about-us/orbital-south-colleges"
-  },
-  {
-    "groupId": "1012",
-    "name": "RNN Group",
-    "URN": "130527",
-    "website": "https://www.rnngroup.co.uk/"
-  },
-  {
-    "groupId": "1013",
-    "name": "London South Bank University Group (LSBU Group)",
-    "URN": "130413",
-    "website": "https://www.lsbu.ac.uk/about-us/lsbu-group"
-  },
-  {
-    "groupId": "1014",
-    "name": "TEC Partnership",
-    "URN": "130585",
-    "website": "https://tecpartnership.com/"
-  },
-  {
-    "groupId": "1015",
-    "name": "The Bedford College Group",
-    "URN": "130597",
-    "website": "https://bedfordcollegegroup.ac.uk/"
-  },
-  {
-    "groupId": "1016",
-    "name": "The Cornwall College Group",
-    "URN": "130627"
-  },
-  {
-    "groupId": "1017",
-    "name": "The Education Training Collective",
-    "URN": "130576",
-    "website": "https://www.the-etc.ac.uk/"
-  },
-  {
-    "groupId": "1018",
-    "name": "The South Thames College Group",
-    "URN": "130448",
-    "website": "https://stcg.ac.uk/"
-  },
-  {
-    "groupId": "1019",
-    "name": "West Herts College Group",
-    "URN": "130720",
-    "website": "https://www.westherts.ac.uk/about/whc-group"
-  },
-  {
-    "groupId": "1020",
-    "name": "Windsor Forest Colleges Group",
-    "URN": "130604",
-    "website": "https://www.windsor-forest.ac.uk/"
-  },
-  {
-    "groupId": "1021",
-    "name": "United Colleges Group",
-    "URN": "130423",
-    "website": "https://www.ucg.ac.uk/"
-  },
-  {
-    "groupId": "1022",
-    "name": "Warwickshire College Group",
-    "URN": "130835",
-    "website": "https://wcg.ac.uk/"
-  }
-]
-
-"colleges": [
+[
   {
     "id": "5001",
     "collegeName": "Abingdon and Witney College",
@@ -149,7 +9,7 @@
       {
         "campusName": "Abingdon Campus",
         "address": "Wootton Road, Abingdon, Oxfordshire",
-        "postcode": "OX14 1GG",
+        "postcode": "OX14 1GG"
       }
     ]
   },
@@ -270,7 +130,7 @@
       {
         "campusName": "Rush Green Campus",
         "address": "Dagenham Road, Rush Green, Romford, Essex",
-        "postcode": "RM7 0XU",
+        "postcode": "RM7 0XU"
       }
     ]
   },
@@ -572,7 +432,7 @@
       {
         "campusName": "Centre for Business, Arts and Technology, Camden Road",
         "address": "444 Camden Road, Islington",
-        "postcode": "N7 0SP",
+        "postcode": "N7 0SP"
       }
     ]
   },
@@ -585,7 +445,7 @@
       {
         "campusName": "Enfield Construction Skills Academy",
         "address": "Leeside Road, Enfield",
-        "postcode": "N17 0SL",
+        "postcode": "N17 0SL"
       }
     ]
   },
@@ -598,7 +458,7 @@
       {
         "campusName": "King’s Cross Centre",
         "address": "211 Gray’s Inn Road, London",
-        "postcode": "WC1X 8RA",
+        "postcode": "WC1X 8RA"
       }
     ]
   },
@@ -627,7 +487,7 @@
         "campusName": "Crewe Campus",
         "address": "Dane Bank Avenue, Crewe, Cheshire",
         "postcode": "CW2 8AB"
-      },
+      }
     ]
   },
   {
@@ -641,7 +501,7 @@
         "campusName": "Chesterfield College",
         "address": "Infirmary Road, Chesterfield, Derbyshire",
         "postcode": "S41 7NG"
-      },
+      }
     ]
   },
   {
@@ -655,7 +515,7 @@
         "campusName": "City College Norwich",
         "address": "Ipswich Road, Norwich",
         "postcode": "NR2 2LJ"
-      },
+      }
     ]
   },
   {
@@ -669,7 +529,7 @@
         "campusName": "City College Plymouth",
         "address": "Kings Road, Devonport, Plymouth, Devon",
         "postcode": "PL1 5QG"
-      },
+      }
     ]
   },
   {
@@ -683,7 +543,7 @@
         "campusName": "College Green Centre",
         "address": "St George’s Road, Anchor Road, Bristol",
         "postcode": "BS1 5UA"
-      },
+      }
     ]
   },
   {
@@ -2063,7 +1923,7 @@
         "postcode": "SW4 9BL"
       }
     ]
-  }
+  },
   {
     "id": "5143",
     "collegeName": "South Devon College",
@@ -2456,7 +2316,7 @@
       }
     ]
   },
-{
+  {
     "id": "5172",
     "parentId": "1018",
     "collegeName": "Carshalton College",
@@ -2483,7 +2343,7 @@
       }
     ]
   },
-{
+  {
     "id": "5174",
     "parentId": "1018",
     "collegeName": "Merton College",
