@@ -2788,13 +2788,13 @@
     "id": "",
     "collegeName": "Wigan and Leigh College",
     "type": "GFEC",
-    "URN": "",
-    "website": "",
+    "URN": "130521",
+    "website": "https://www.wigan-leigh.ac.uk/",
     "campuses": [
       {
-        "campusName": "",
-        "address": "",
-        "postcode": ""
+        "campusName": "Parsons Walk Centre",
+        "address": "Parson’s Walk, Wigan, Lancashire",
+        "postcode": "WN1 1RS"
       }
     ]
   },
