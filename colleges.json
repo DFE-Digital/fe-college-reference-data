@@ -2830,13 +2830,12 @@
     "id": "",
     "collegeName": "Yeovil College",
     "type": "GFEC",
-    "URN": "",
-    "website": "",
+    "URN": "130805",
+    "website": "https://www.yeovil.ac.uk/",
     "campuses": [
       {
-        "campusName": "",
-        "address": "",
-        "postcode": ""
+        "address": "Mudford Road, Yeovil, Somerset",
+        "postcode": "BA21 4DR"
       }
     ]
   },
