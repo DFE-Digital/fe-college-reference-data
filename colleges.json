@@ -2802,13 +2802,13 @@
     "id": "",
     "collegeName": "Wiltshire College and University Centre",
     "type": "GFEC",
-    "URN": "",
-    "website": "",
+    "URN": "132779",
+    "website": "https://www.wiltshire.ac.uk/",
     "campuses": [
       {
-        "campusName": "",
-        "address": "",
-        "postcode": ""
+        "campusName": "Chippenham Campus",
+        "address": "Cocklebury Road, Chippenham, Wiltshire",
+        "postcode": "SN15 3QD"
       }
     ]
   },
