@@ -2732,13 +2732,13 @@
     "id": "",
     "collegeName": "West Suffolk College",
     "type": "GFEC",
-    "URN": "",
-    "website": "",
+    "URN": "130818",
+    "website": "https://www.wsc.ac.uk/",
     "campuses": [
       {
-        "campusName": "",
-        "address": "",
-        "postcode": ""
+        "campusName": "Sixth Form Campus",
+        "address": "Out Risbygate, Bury St Edmunds",
+        "postcode": "IP33 3RL"
       }
     ]
   },
