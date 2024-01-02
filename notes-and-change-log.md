@@ -32,27 +32,27 @@ Unclear if the college group has 1 or 2 colleges. Wakefield is a college, but ha
 
 ## Herefordshire, Ludlow and North Shropshire College
 
-Have kept this is as 1 college. Could have been multiple, two of the sites are about 1.5 hours apart.
+Have kept this is as 1 college. Could have been multiple, 2 of the sites are about 1.5 hours apart.
 
 
 ## Hertford Regional College
 
-Address is slightly different from GIAS
+Address on website is slightly different from GIAS. Have picked the website address.
 
 
 ## Inspire education group
 
-Confusing if Inspire education group (IEG) is a college or a college group or both. It has subsidiaries – 'Peterborough College' (which it shares an address with) and 'Stamford College'. I made IEG a group and Peterborough the college. I also added Stamford college as child of IEG.
+Confusing if Inspire education group (IEG) is a college or a college group or both. It has subsidiaries – 'Peterborough College' (which it shares an address with) and 'Stamford College'. I made IEG a group and Peterborough College the college. I also added Stamford College as child of IEG.
 
 
 ## LTE Group
 
-Group appears to be a general edcation/training. Only one college, but I feel it's better to expose the college (The Manchester College) than the group. So I've created 1 parent with 1 college.
+Group appears to be a general edcation/training. Only 1 college, but it's better to expose the college (The Manchester College) than the group. Created the parent LTE Group with The Manchester College as it's college.
 
 
 ## Luminate Education Group
 
-Made Luminate Education Group a parent with Leeds City College, Keighly College and Harrogate college as colleges.
+Made Luminate Education Group a parent with Leeds City College, Keighly College, and Harrogate College as colleges.
 
 
 ## Orbital South Colleges
@@ -82,7 +82,7 @@ Bit hard to know if the college entity is South Bank Colleges or Lambeth College
 
 ## Southport Education Group / Southport College
 
-Southport College is listed as Southport Education Group in GIAS. Cannot see another mention of Southport Education Group anywhere else so I've not created a parent.
+Southport College is listed as Southport Education Group in GIAS. Cannot see another mention of Southport Education Group anywhere else so created 'Southport College' without a parent.
 
 
 ## Sunderland College Group (Education Partnership North Tameside)
@@ -92,7 +92,7 @@ Cannot find any mention of the group. Have just listed Sunderland College.
 
 ## TEC Partnership / East Riding College
 
-TEC Partnership is listed in AoC and GIAS. According to their site "TEC partnership comprises of:
+TEC Partnership is listed in AoC and GIAS. According to their site "TEC partnership" comprises of:
 - Grimsby Institute
 - University Centre Grimsby
 - Scarborough TEC
@@ -119,23 +119,23 @@ In the older AoC data, Bedfordshire has:
 - Shuttleworth College
 - Tresham College of Further and Higher Education
 
-Have added all of the colleges as colleges. Picked the Kettering Campus as the campus for Tresham College because that is the address for Tresham College of Further and Higher Education in the old AoC data.
+Have added all 5 colleges as colleges. 
+
+Picked the Kettering Campus as the campus for Tresham College because that is the address for Tresham College of Further and Higher Education in the old AoC data.
 
 
 ## The Cornwall College Group
 
-The Cornwall College Group lists:
+The Cornwall College Group a couple of training facilities and has these 'colleges':
 - Cornwall College
 - Duchy College
 - Bicton College
-
-And a couple of other training facilities.
 
 Hard to decide if this is a parent because The Cornwall College Group:
 - does not have a website
 - LinkedIn page says "Cornwall College is the UK's third largest further education college... The college comprises of seven campuses across the county of Cornwall and incorporates both Duchy College (two campuses), Falmouth Marine School and Bicton College in Devon."
 
-But wanted to list Duchy College or Bicton College, and wanted to show the parent for all 3 because if I didn't it feels inconsistent with some where the colleges appears as related to each other as this but have clearer parents.
+Listed Duchy College and Bicton College, and show the parent for consistency with other college groups. 
 
 
 ## The Education Training Collective
@@ -182,7 +182,7 @@ Windsor Forest Colleges Group looks to be a legit group. It has 3 colleges and 1
 
 ## Trafford College Group
 
-For our purposes Trafford College Group isn't a parent because the 'group' offers other training provision, but no other colleges. Have flattened the group to be the Trafford College.
+For our purposes Trafford College Group isn't a parent because the 'group' offers other training provision, but no other colleges. Have removed the group and only show Trafford College.
 
 
 ## Truro and Penwith College
@@ -209,4 +209,4 @@ This group appears to have 6 colleges:
 - Pershore College
 - Warwick Trident College
 
-Created a group for Warwickshire College Group. Moreton Morrell College and Pershore College appear to be land-based and have not been included.
+Created a group for Warwickshire College Group. Moreton Morrell College and Pershore College appear to be land-based and have not been included. Added Royal Leamington Spa College, Rugby College and Warwick Trident College as colleges.
