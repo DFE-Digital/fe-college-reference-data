@@ -18,12 +18,12 @@
     "parentId": "1000",
     "collegeName": "Banbury and Bicester College",
     "type": "GFEC",
+    "website": "https://banbury.activatelearning.ac.uk/",
     "campuses": [
       {
         "campusName": "Banbury campus",
         "address": "Broughton Road, Banbury, Oxfordshire",
-        "postcode": "OX16 9QA",
-        "website": "https://banbury.activatelearning.ac.uk/"
+        "postcode": "OX16 9QA"
       }
     ]
   },
