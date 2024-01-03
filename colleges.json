@@ -803,7 +803,7 @@
   },
   {
     "id": "5060",
-    "parent": "1004",
+    "parentId": "1004",
     "collegeName": "Ashford College",
     "website": "https://www.ashfordcollege.ac.uk/",
     "campuses": [
@@ -815,7 +815,7 @@
   },
   {
     "id": "5061",
-    "parent": "1004",
+    "parentId": "1004",
     "collegeName": "Broadstairs College",
     "website": "https://www.broadstairscollege.ac.uk/",
     "campuses": [
@@ -827,7 +827,7 @@
   },
   {
     "id": "5062",
-    "parent": "1004",
+    "parentId": "1004",
     "collegeName": "Canterbury College",
     "website": "https://www.canterburycollege.ac.uk/",
     "campuses": [
@@ -839,7 +839,7 @@
   },
   {
     "id": "5063",
-    "parent": "1004",
+    "parentId": "1004",
     "collegeName": "Dover College",
     "website": "https://www.dovercollege.ac.uk/",
     "campuses": [
@@ -851,7 +851,7 @@
   },
   {
     "id": "5064",
-    "parent": "1004",
+    "parentId": "1004",
     "collegeName": "Folkestone College",
     "website": "https://www.folkestonecollege.ac.uk/",
     "campuses": [
@@ -863,7 +863,7 @@
   },
   {
     "id": "5065",
-    "parent": "1004",
+    "parentId": "1004",
     "collegeName": "Sheppey College",
     "website": "https://www.sheppeycollege.ac.uk/",
     "campuses": [
