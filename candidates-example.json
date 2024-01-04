@@ -1,0 +1,32 @@
+[
+    {
+      "extRef": "",
+      "firstName": "",
+      "lastName": "",
+      "email": "abc@candidates.com",
+      "phone": "07989000001",
+      "embeddedData": [
+        {
+          "postcode": "AB1 5GG",
+          "lat": "",
+          "long": "",
+          "dateJoined": "",
+          "firstCollegeId": "1001",
+          "firstCollegeStatus": "Not Sent",
+          "firstCollegeDateSent": "",
+          "secondCollegeId": "1002",
+          "secondCollegeStatus": "Not Sent",
+          "secondCollegeDateSent": "",
+          "thirdCollegeId": "1003",
+          "thirdCollegeStatus": "Not Sent",
+          "thirdCollegeDateSent": "",
+          "fourthCollegeId": "1004",
+          "fourthCollegeStatus": "Not Sent",
+          "fourthCollegeDateSent": "",
+          "fifthCollegeId": "1005",
+          "fifthCollegeStatus": "Not Sent",
+          "fifthCollegeDateSent": ""
+        }
+      ]
+    }
+]

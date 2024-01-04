@@ -1,0 +1,20 @@
+[
+    {
+      "extRef": "5001",
+      "firstName": "",
+      "lastName": "",
+      "email": "abc@colleges.com",
+      "phone": "01612344949",
+      "embeddedData": [
+        {
+          "collegeName": "Example",
+          "collegeStatus": "Unregistered",
+          "dateInvited": "",
+          "postcode": "OX14 1GG",
+          "dateRegistered": "",
+          "lat": "",
+          "long": ""
+        }
+      ]
+    }
+]
