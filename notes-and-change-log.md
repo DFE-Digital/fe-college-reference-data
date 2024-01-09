@@ -1,5 +1,39 @@
 # Notes
 
+## Activate Learning
+
+Removed because land-based:
+
+{
+  "id": "5007",
+  "parentId": "1000",
+  "collegeName": "Merrist Wood College",
+  "type": "GFEC",
+  "website": "https://merristwood.activatelearning.ac.uk/",
+  "campuses": [
+    {
+      "address": "Holly Lane, Worplesdon, Guildford, Surrey",
+      "postcode": "GU3 3PE"
+    }
+  ]
+}
+
+Removed because too limited in subjects:
+
+{
+  "id": "5005",
+  "parentId": "1000",
+  "collegeName": "Farnham College",
+  "type": "GFEC",
+  "website": "https://farnham.activatelearning.ac.uk/",
+  "campuses": [
+    {
+      "address": "Morley Road, Farnham, Surrey",
+      "postcode": "GU9 8LU"
+    }
+  ]
+}
+
 ## Ada, National College for Digital Skills
 
 Removed
