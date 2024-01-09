@@ -2710,5 +2710,19 @@
         "postcode": "YO23 2BB"
       }
     ]
+  },
+  {
+    "id": "5201",
+    "collegeName": "Leicester College",
+    "type": "GFEC",
+    "URN": "131863",
+    "website": "https://leicestercollege.ac.uk/",
+    "campuses": [
+      { 
+        "name": "Freemen’s Park Campus",
+        "address": "Welford Road Leicester",
+        "postcode": "LE2 7LW"
+      }
+    ]
   }
 ]
