@@ -31,7 +31,7 @@ College appears to be called 'West London College', which I've renamed it to. It
 
 ## East Coast College
 
-None of the address match the GIAS data or AoC data. Have gone with the address on their site.
+None of the address match the GIAS data or AoC data. Using the Lowestoft Campus as the college address as this matches governance docs.
 
 
 ## Eastleigh College, Fareham College, 
