@@ -1398,7 +1398,7 @@
     "parentId": "1010",
     "collegeName": "Carlisle College",
     "type": "GFEC",
-    "website": "https://www.ncgrp.co.uk/ncg-colleges/carlisle-college/",
+    "website": "https://www.carlisle.ac.uk/",
     "campuses": [
       {
         "address": "Victoria Place, Carlisle",
@@ -1411,7 +1411,7 @@
     "parentId": "1010",
     "collegeName": "Kidderminster College",
     "type": "GFEC",
-    "website": "https://www.ncgrp.co.uk/ncg-colleges/kidderminster-college/",
+    "website": "https://www.kidderminster.ac.uk/",
     "campuses": [
       {
         "address": "Market Street, Kidderminster",
@@ -1424,7 +1424,7 @@
     "parentId": "1010",
     "collegeName": "Lewisham College",
     "type": "GFEC",
-    "website": "https://www.ncgrp.co.uk/ncg-colleges/lewisham-college/",
+    "website": "https://www.lewisham.ac.uk/",
     "campuses": [
       {
         "address": "Lewisham Way, London",
@@ -1437,7 +1437,7 @@
     "parentId": "1010",
     "collegeName": "Newcastle College",
     "type": "GFEC",
-    "website": "https://www.ncgrp.co.uk/ncg-colleges/newcastle-college/",
+    "website": "https://www.ncl-coll.ac.uk/",
     "campuses": [
       {
         "campusName": "Rye Hill Campus",
@@ -1451,10 +1451,10 @@
     "parentId": "1010",
     "collegeName": "Southwark College",
     "type": "GFEC",
-    "website": "https://www.ncgrp.co.uk/ncg-colleges/southwark-college/",
+    "website": "https://www.southwark.ac.uk/",
     "campuses": [
       {
-        "address": "The Cut, London",
+        "address": "25 The Cut, London",
         "postcode": "SE1 8LF"
       }
     ]
@@ -1464,10 +1464,10 @@
     "parentId": "1010",
     "collegeName": "West Lancashire College",
     "type": "GFEC",
-    "website": "https://www.ncgrp.co.uk/ncg-colleges/west-lancashire-college/",
+    "website": "https://www.westlancs.ac.uk/",
     "campuses": [
       {
-        "address": "College Way, Skelmersdale",
+        "address": "College Way, Skelmersdale, Lancashire",
         "postcode": "WN8 6LH"
       }
     ]
