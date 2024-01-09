@@ -107,20 +107,6 @@
     ]
   },
   {
-    "id": "5009",
-    "collegeName": "Ada, National College for Digital Skills",
-    "type": "GFEC",
-    "URN": "143540",
-    "website": "https://www.ada.ac.uk/",
-    "campuses": [
-      {
-        "campusName": "London Sixth Form and Apprenticeship Campus",
-        "address": "1, Sutherland Street, Pimlico, London",
-        "postcode": "SW1V 4LD"
-      }
-    ]
-  },
-  {
     "id": "5010",
     "collegeName": "Barking and Dagenham College",
     "type": "GFEC",

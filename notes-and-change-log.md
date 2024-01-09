@@ -2,8 +2,22 @@
 
 ## Ada, National College for Digital Skills
 
-Should we exclude from the experiment because it is overly specialist?
+Removed
 
+{
+  "id": "5009",
+  "collegeName": "Ada, National College for Digital Skills",
+  "type": "GFEC",
+  "URN": "143540",
+  "website": "https://www.ada.ac.uk/",
+  "campuses": [
+    {
+      "campusName": "London Sixth Form and Apprenticeship Campus",
+      "address": "1, Sutherland Street, Pimlico, London",
+      "postcode": "SW1V 4LD"
+    }
+  ]
+}
 
 ## Cheshire College South and West
 
