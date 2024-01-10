@@ -2687,6 +2687,7 @@
   {
     "id": "5202",
     "collegeName": "SMB College Group",
+    "URN": "130754",
     "type": "GFEC",
     "website": "https://www.smbcollegegroup.ac.uk/",
     "campuses": [
@@ -2694,6 +2695,80 @@
         "name": "Stephenson Campus",
         "address": "Thornborough Road, Coalville",
         "postcode": "LE67 3TN"
+      }
+    ]
+  },
+  {
+    "id": "5203",
+    "parentId": "1024",
+    "collegeName": "Brighton Metropolitan College",
+    "website": "https://www.brightonmet.ac.uk/",
+    "campuses": [
+      {
+        "name": "Central Brighton Campus",
+        "address": "Pelham Street, Brighton, East Sussex",
+        "postcode": "BN1 4FA"
+      }
+    ]
+  },
+  {
+    "id": "5204",
+    "parentId": "1024",
+    "collegeName": "Chichester College",
+    "website": "https://www.chichester.ac.uk/",
+    "campuses": [
+      {
+        "address": "Westgate Fields, Chichester, West Sussex",
+        "postcode": "PO19 1SB"
+      }
+    ]
+  },
+  {
+    "id": "5025",
+    "parentId": "1024",
+    "collegeName": "Crawley College",
+    "website": "https://crawley.ac.uk/",
+    "campuses": [
+      {
+        "address": "College Road, Crawley, West Sussex",
+        "postcode": "RH10 1NR"
+      }
+    ]
+  },
+  {
+    "id": "5026",
+    "parentId": "1024",
+    "collegeName": "Haywards Heath College",
+    "website": "https://www.haywardsheath.ac.uk/",
+    "campuses": [
+      {
+        "address": "Harlands Rd, Haywards Heath",
+        "postcode": "RH16 1LT"
+      }
+    ]
+  },
+  {
+    "id": "5027",
+    "parentId": "1024",
+    "collegeName": "Northbrook College",
+    "website": "https://www.northbrook.ac.uk/",
+    "campuses": [
+      {
+        "campusName": "Broadwater Campus",
+        "address": "Broadwater Road, Worthing, West Sussex",
+        "postcode": "BN14 8HJ"
+      }
+    ]
+  },
+  {
+    "id": "5028",
+    "parentId": "1024",
+    "collegeName": "Worthing College",
+    "website": "https://www.worthing.ac.uk/",
+    "campuses": [
+      {
+        "address": "1 Sanditon Way, Worthing",
+        "postcode": "BN14 9FD"
       }
     ]
   }

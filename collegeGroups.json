@@ -140,6 +140,12 @@
     "groupId": "1023",
     "name": "Sparsholt College Group",
     "URN": "130698"
+  },
+  {
+    "groupId": "1024",
+    "name": "Chichester College Group",
+    "URN": "130843",
+    "website": "https://www.chigroup.ac.uk/"
   }
 ]
 
