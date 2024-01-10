@@ -259,8 +259,14 @@ This group appears to have 6 colleges:
 
 Created a group for Warwickshire College Group. Moreton Morrell College and Pershore College appear to be land-based and have not been included. Added Royal Leamington Spa College, Rugby College and Warwick Trident College as colleges.
 
+
 ## Sparsholt College Group
 
 "Sparsholt College Hampshire" is listed on GIAS and has a URN. The Sparsholt website uses "Sparsholt Campus" primarily, but does refer to both "Sparsholt College" and "Sparsholt College Group". The site also calls Sparsholt "a specialist land-based college". Sparsholt with the exception of Motor Vehicle does not have any courses that match our trial. "Andover College" or "Campus" is also part of the group and has a wider range of courses. On the Andover Campus site it says that it is "a proud member of the Sparsholt College Group".
 
 Have made "Sparsholt College Group" the parent with "Andover Campus" the college.
+
+
+## SMB College Group
+
+Although this is called 'group', there are no college entities listed, only campuses. So I have made "SMB College Group" a college. Choose "Stephenson Campus" for addres because it had the widest selection of courses, is also address listed in GIAS.

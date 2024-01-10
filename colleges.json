@@ -2683,5 +2683,18 @@
         "postcode": "SP10 1EJ"
       }
     ]
+  },
+  {
+    "id": "5202",
+    "collegeName": "SMB College Group",
+    "type": "GFEC",
+    "website": "https://www.smbcollegegroup.ac.uk/",
+    "campuses": [
+      {
+        "name": "Stephenson Campus",
+        "address": "Thornborough Road, Coalville",
+        "postcode": "LE67 3TN"
+      }
+    ]
   }
 ]
