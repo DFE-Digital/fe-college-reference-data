@@ -1,9 +1,57 @@
 # Notes
 
+## Activate Learning
+
+Removed because land-based:
+
+{
+  "id": "5007",
+  "parentId": "1000",
+  "collegeName": "Merrist Wood College",
+  "type": "GFEC",
+  "website": "https://merristwood.activatelearning.ac.uk/",
+  "campuses": [
+    {
+      "address": "Holly Lane, Worplesdon, Guildford, Surrey",
+      "postcode": "GU3 3PE"
+    }
+  ]
+}
+
+Removed because too limited in subjects:
+
+{
+  "id": "5005",
+  "parentId": "1000",
+  "collegeName": "Farnham College",
+  "type": "GFEC",
+  "website": "https://farnham.activatelearning.ac.uk/",
+  "campuses": [
+    {
+      "address": "Morley Road, Farnham, Surrey",
+      "postcode": "GU9 8LU"
+    }
+  ]
+}
+
 ## Ada, National College for Digital Skills
 
-Should we exclude from the experiment because it is overly specialist?
+Removed
 
+{
+  "id": "5009",
+  "collegeName": "Ada, National College for Digital Skills",
+  "type": "GFEC",
+  "URN": "143540",
+  "website": "https://www.ada.ac.uk/",
+  "campuses": [
+    {
+      "campusName": "London Sixth Form and Apprenticeship Campus",
+      "address": "1, Sutherland Street, Pimlico, London",
+      "postcode": "SW1V 4LD"
+    }
+  ]
+}
 
 ## Cheshire College South and West
 
@@ -17,7 +65,7 @@ College appears to be called 'West London College', which I've renamed it to. It
 
 ## East Coast College
 
-None of the address match the GIAS data or AoC data. Have gone with the address on their site.
+None of the address match the GIAS data or AoC data. Using the Lowestoft Campus as the college address as this matches governance docs.
 
 
 ## Eastleigh College, Fareham College, 
@@ -27,7 +75,13 @@ Eastleigh College is not in GIAS. It appears the parent is South Hampshire Colle
 
 ## Heart of Yorkshire Education Group
 
-Unclear if the college group has 1 or 2 colleges. Wakefield is a college, but hard to tell if Castleford is a college in it's own right. Have called it a second campus for now.
+Unclear if the college group has 1 or 2 colleges. Wakefield is a college, but hard to tell if Castleford is a college in it's own right. I'm tempted to have 2 campuses here, but do not want to make an exception at this stage.
+
+{
+  "campusName": "Casleford College",
+  "address": "Thunderhead Ridge, Castleford, West Yorkshire",
+  "postcode": "WF10 4UA"
+}
 
 
 ## Herefordshire, Ludlow and North Shropshire College
@@ -210,3 +264,15 @@ This group appears to have 6 colleges:
 - Warwick Trident College
 
 Created a group for Warwickshire College Group. Moreton Morrell College and Pershore College appear to be land-based and have not been included. Added Royal Leamington Spa College, Rugby College and Warwick Trident College as colleges.
+
+
+## Sparsholt College Group
+
+"Sparsholt College Hampshire" is listed on GIAS and has a URN. The Sparsholt website uses "Sparsholt Campus" primarily, but does refer to both "Sparsholt College" and "Sparsholt College Group". The site also calls Sparsholt "a specialist land-based college". With the exception of Motor Vehicle Sparsholt does not have any courses that match our trial. "Andover College" or "Campus" is also part of the group and has a wider range of courses. On the Andover Campus site it says that it is "a proud member of the Sparsholt College Group".
+
+Have made "Sparsholt College Group" the parent with "Andover Campus" the college.
+
+
+## SMB College Group
+
+Although this is a 'group', there are no college entities listed, only campuses. So I have made "SMB College Group" a college. Choose "Stephenson Campus" for address because it had the widest selection of courses, is also address listed in GIAS.

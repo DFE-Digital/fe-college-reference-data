@@ -135,6 +135,22 @@
     "name": "Warwickshire College Group",
     "URN": "130835",
     "website": "https://wcg.ac.uk/"
+  },
+  {
+    "groupId": "1023",
+    "name": "Sparsholt College Group",
+    "URN": "130698"
+  },
+  {
+    "groupId": "1024",
+    "name": "Chichester College Group",
+    "URN": "130843",
+    "website": "https://www.chigroup.ac.uk/"
+  },
+  {
+    "groupId": "1025",
+    "name": "Education Partnership North East (EPNE)",
+    "URN": "131347",
+    "website": "https://educationpartnershipne.ac.uk/"
   }
 ]
-
