@@ -1048,11 +1048,6 @@
         "campusName": "Wakefield City Campus",
         "address": "Margaret Street, Wakefield, West Yorkshire",
         "postcode": "WF1 2DH"
-      },
-      {
-        "campusName": "Casleford College",
-        "address": "Thunderhead Ridge, Castleford, West Yorkshire",
-        "postcode": "WF10 4UA"
       }
     ]
   },
@@ -2684,7 +2679,7 @@
         "postcode": "YO23 2BB"
       }
     ]
-  }
+  },
   {
     "id": "5199",
     "parentId": "1023",
@@ -2706,7 +2701,7 @@
     "website": "https://www.smbcollegegroup.ac.uk/",
     "campuses": [
       {
-        "name": "Stephenson Campus",
+        "campusName": "Stephenson Campus",
         "address": "Thornborough Road, Coalville",
         "postcode": "LE67 3TN"
       }
@@ -2719,7 +2714,7 @@
     "website": "https://www.brightonmet.ac.uk/",
     "campuses": [
       {
-        "name": "Central Brighton Campus",
+        "campusName": "Central Brighton Campus",
         "address": "Pelham Street, Brighton, East Sussex",
         "postcode": "BN1 4FA"
       }

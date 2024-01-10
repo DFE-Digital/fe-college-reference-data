@@ -75,7 +75,13 @@ Eastleigh College is not in GIAS. It appears the parent is South Hampshire Colle
 
 ## Heart of Yorkshire Education Group
 
-Unclear if the college group has 1 or 2 colleges. Wakefield is a college, but hard to tell if Castleford is a college in it's own right. Have called it a second campus for now.
+Unclear if the college group has 1 or 2 colleges. Wakefield is a college, but hard to tell if Castleford is a college in it's own right. I'm tempted to have 2 campuses here, but do not want to make an exception at this stage.
+
+{
+  "campusName": "Casleford College",
+  "address": "Thunderhead Ridge, Castleford, West Yorkshire",
+  "postcode": "WF10 4UA"
+}
 
 
 ## Herefordshire, Ludlow and North Shropshire College
