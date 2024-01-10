@@ -2671,4 +2671,17 @@
       }
     ]
   }
+  {
+    "id": "5201",
+    "parentId": "1023",
+    "collegeName": "Andover Campus",
+    "type": "GFEC",
+    "website": "https://www.andover.ac.uk/",
+    "campuses": [
+      {
+        "address": "Charlton Rd, Andover, Hampshire",
+        "postcode": "SP10 1EJ"
+      }
+    ]
+  }
 ]

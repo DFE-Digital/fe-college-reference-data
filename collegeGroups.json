@@ -135,6 +135,11 @@
     "name": "Warwickshire College Group",
     "URN": "130835",
     "website": "https://wcg.ac.uk/"
+  },
+  {
+    "groupId": "1023",
+    "name": "Sparsholt College Group",
+    "URN": "130698"
   }
 ]
 
