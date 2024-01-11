@@ -124,9 +124,11 @@ Made RNN Group a parent with Rotherham College, Dearne Valley College, North Not
 Physical address on the site is different to GIAS. Went with address on website.
 
 
-## SK Group / St Helens College
+## SK Group
 
-AoC data has 'SK Group'. Cannot find any info on SK Group, but the St Helens College shares the same address. Have gone with St Helens College and not created a parent.
+SK Group has 2 colleges:
+- St Helens College
+- Knowsley Community College
 
 
 ## South Bank Colleges / Lambeth College / LSBU group
