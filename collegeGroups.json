@@ -152,5 +152,10 @@
     "name": "Education Partnership North East (EPNE)",
     "URN": "131347",
     "website": "https://educationpartnershipne.ac.uk/"
+  },
+  {
+    "groupId": "1026",
+    "name": "SK College Group",
+    "URN": "130488"
   }
 ]
