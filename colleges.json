@@ -213,8 +213,8 @@
     "campuses": [
       {
         "campusName": "Deane Road Campus",
-        "address": "Deane Road",
-        "postcode": "Bolton"
+        "address": "Deane Road, Bolton",
+        "postcode": "BL3 5BG"
       }
     ]
   },
