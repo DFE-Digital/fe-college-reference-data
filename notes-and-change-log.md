@@ -189,7 +189,7 @@ Hard to decide if this is a parent because The Cornwall College Group:
 - does not have a website
 - LinkedIn page says "Cornwall College is the UK's third largest further education college... The college comprises of seven campuses across the county of Cornwall and incorporates both Duchy College (two campuses), Falmouth Marine School and Bicton College in Devon."
 
-Listed Duchy College and Bicton College, and show the parent for consistency with other college groups. 
+Site also says Duch and Bicton are land-based, so did not include them.
 
 
 ## The Education Training Collective

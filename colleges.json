@@ -344,6 +344,20 @@
   },
   {
     "id": "5026",
+    "collegeName": "Buxton and Leek College",
+    "type": "Miscellaneous",
+    "URN": "148567",
+    "website": "https://www.blc.ac.uk/",
+    "campuses": [
+      {
+        "campusName": "Buxton Campus",
+        "address": "Devonshire Road, Buxton, Derbyshire",
+        "postcode": "SK17 6RY"
+      }
+    ]
+  },
+  {
+    "id": "5027",
     "collegeName": "Bury College",
     "type": "GFEC",
     "URN": "130498",
@@ -356,7 +370,7 @@
     ]
   },
   {
-    "id": "5027",
+    "id": "5028",
     "collegeName": "Calderdale College",
     "type": "GFEC",
     "URN": "130535",
@@ -369,7 +383,7 @@
     ]
   },
   {
-    "id": "5028",
+    "id": "5029",
     "collegeName": "Cambridge Regional College",
     "type": "GFEC",
     "URN": "130610",
@@ -383,7 +397,7 @@
     ]
   },
   {
-    "id": "5029",
+    "id": "5030",
     "parentId": "1001",
     "collegeName": "City and Islington College",
     "website": "https://www.capitalccg.ac.uk/candi",
@@ -396,7 +410,7 @@
     ]
   },
   {
-    "id": "5030",
+    "id": "5031",
     "parentId": "1001",
     "collegeName": "The College of Haringey, Enfield and North East London",
     "website": "https://www.capitalccg.ac.uk/conel",
@@ -409,7 +423,7 @@
     ]
   },
   {
-    "id": "5031",
+    "id": "5032",
     "parentId": "1001",
     "collegeName": "Westminster Kingsway College",
     "website": "https://www.capitalccg.ac.uk/westking",
@@ -422,7 +436,7 @@
     ]
   },
   {
-    "id": "5032",
+    "id": "5033",
     "collegeName": "Chelmsford College",
     "type": "GFEC",
     "URN": "130679",
@@ -436,7 +450,7 @@
     ]
   },
   {
-    "id": "5033",
+    "id": "5034",
     "collegeName": "Cheshire College South and West",
     "type": "GFEC",
     "URN": "130619",
@@ -450,7 +464,7 @@
     ]
   },
   {
-    "id": "5034",
+    "id": "5035",
     "collegeName": "Chesterfield College",
     "type": "GFEC",
     "URN": "130638",
@@ -464,7 +478,7 @@
     ]
   },
   {
-    "id": "5035",
+    "id": "5036",
     "collegeName": "City College Norwich",
     "type": "GFEC",
     "URN": "130764",
@@ -478,7 +492,7 @@
     ]
   },
   {
-    "id": "5036",
+    "id": "5037",
     "collegeName": "City College Plymouth",
     "type": "GFEC",
     "URN": "130649",
@@ -492,7 +506,7 @@
     ]
   },
   {
-    "id": "5037",
+    "id": "5038",
     "collegeName": "City of Bristol College",
     "type": "GFEC",
     "URN": "131094",
@@ -506,7 +520,7 @@
     ]
   },
   {
-    "id": "5038",
+    "id": "5039",
     "collegeName": "City of Portsmouth College",
     "type": "GFEC",
     "URN": "130697",
@@ -520,7 +534,7 @@
     ]
   },
   {
-    "id": "5039",
+    "id": "5040",
     "collegeName": "City of Wolverhampton College",
     "type": "GFEC",
     "URN": "130484",
@@ -534,7 +548,7 @@
     ]
   },
   {
-    "id": "5040",
+    "id": "5041",
     "collegeName": "Colchester Institute",
     "type": "GFEC",
     "URN": "130674",
@@ -548,7 +562,7 @@
     ]
   },
   {
-    "id": "5041",
+    "id": "5042",
     "collegeName": "Coventry College",
     "type": "GFEC",
     "URN": "130472",
@@ -561,7 +575,7 @@
     ]
   },
   {
-    "id": "5042",
+    "id": "5043",
     "collegeName": "Craven College",
     "type": "GFEC",
     "URN": "130591",
@@ -575,7 +589,7 @@
     ]
   },
   {
-    "id": "5043",
+    "id": "5044",
     "collegeName": "Croydon College",
     "type": "GFEC",
     "URN": "130432",
@@ -588,7 +602,7 @@
     ]
   },
   {
-    "id": "5044",
+    "id": "5045",
     "collegeName": "Darlington College",
     "type": "GFEC",
     "URN": "130656",
@@ -602,7 +616,7 @@
     ]
   },
   {
-    "id": "5045",
+    "id": "5046",
     "collegeName": "DCG (Derby College)",
     "type": "GFEC",
     "URN": "133585",
@@ -616,7 +630,7 @@
     ]
   },
   {
-    "id": "5046",
+    "id": "5047",
     "collegeName": "Derwentside College",
     "type": "GFEC",
     "URN": "130658",
@@ -629,7 +643,7 @@
     ]
   },
   {
-    "id": "5047",
+    "id": "5048",
     "parentId": "1002",
     "collegeName": "Doncaster College",
     "website": "https://don.ac.uk/",
@@ -641,7 +655,7 @@
     ]
   },
   {
-    "id": "5048",
+    "id": "5049",
     "parentId": "1002",
     "collegeName": "North Lindsey",
     "website": "https://northlindsey.ac.uk/",
@@ -653,7 +667,7 @@
     ]
   },
   {
-    "id": "5049",
+    "id": "5050",
     "collegeName": "Dudley College of Technology",
     "type": "GFEC",
     "URN": "130475",
@@ -667,7 +681,7 @@
     ]
   },
   {
-    "id": "5050",
+    "id": "5051",
     "collegeName": "West London College",
     "URN": "130408",
     "website": "https://www.wlc.ac.uk/",
@@ -680,7 +694,7 @@
     ]
   },
   {
-    "id": "5051",
+    "id": "5052",
     "collegeName": "East Coast College",
     "type": "GFEC",
     "URN": "130819",
@@ -694,7 +708,7 @@
     ]
   },
   {
-    "id": "5052",
+    "id": "5053",
     "collegeName": "East Durham College",
     "type": "GFEC",
     "URN": "131859",
@@ -708,7 +722,7 @@
     ]
   },
   {
-    "id": "5053",
+    "id": "5054",
     "collegeName": "East Sussex College Group",
     "type": "GFEC",
     "URN": "130665",
@@ -722,7 +736,7 @@
     ]
   },
   {
-    "id": "5054",
+    "id": "5055",
     "parentId": "1003",
     "collegeName": "Eastleigh College",
     "website": "https://www.eastleigh.ac.uk/",
@@ -735,7 +749,7 @@
     ]
   },
   {
-    "id": "5055",
+    "id": "5056",
     "parentId": "1003",
     "collegeName": "Fareham College",
     "website": "https://www.fareham.ac.uk/",
@@ -748,7 +762,7 @@
     ]
   },
   {
-    "id": "5056",
+    "id": "5057",
     "parentId": "1003",
     "collegeName": "City College Southampton",
     "website": "http://www.southampton-city.ac.uk/",
@@ -761,7 +775,7 @@
     ]
   },
   {
-    "id": "5057",
+    "id": "5058",
     "parentId": "1004",
     "collegeName": "Ashford College",
     "website": "https://www.ashfordcollege.ac.uk/",
@@ -773,7 +787,7 @@
     ]
   },
   {
-    "id": "5058",
+    "id": "5059",
     "parentId": "1004",
     "collegeName": "Broadstairs College",
     "website": "https://www.broadstairscollege.ac.uk/",
@@ -785,7 +799,7 @@
     ]
   },
   {
-    "id": "5059",
+    "id": "5060",
     "parentId": "1004",
     "collegeName": "Canterbury College",
     "website": "https://www.canterburycollege.ac.uk/",
@@ -797,7 +811,7 @@
     ]
   },
   {
-    "id": "5060",
+    "id": "5061",
     "parentId": "1004",
     "collegeName": "Dover College",
     "website": "https://www.dovercollege.ac.uk/",
@@ -809,7 +823,7 @@
     ]
   },
   {
-    "id": "5061",
+    "id": "5062",
     "parentId": "1004",
     "collegeName": "Folkestone College",
     "website": "https://www.folkestonecollege.ac.uk/",
@@ -821,7 +835,7 @@
     ]
   },
   {
-    "id": "5062",
+    "id": "5063",
     "parentId": "1004",
     "collegeName": "Sheppey College",
     "website": "https://www.sheppeycollege.ac.uk/",
@@ -833,7 +847,7 @@
     ]
   },
   {
-    "id": "5063",
+    "id": "5064",
     "collegeName": "Exeter College",
     "type": "GFEC",
     "URN": "130645",
@@ -847,7 +861,7 @@
     ]
   },
   {
-    "id": "5064",
+    "id": "5065",
     "collegeName": "Farnborough College of Technology",
     "type": "GFEC",
     "URN": "130689",
@@ -861,7 +875,7 @@
     ]
   },
   {
-    "id": "5065",
+    "id": "5066",
     "collegeName": "Furness College",
     "type": "GFEC",
     "URN": "130633",
@@ -875,7 +889,7 @@
     ]
   },
   {
-    "id": "5066",
+    "id": "5067",
     "collegeName": "Gateshead College",
     "type": "GFEC",
     "URN": "130551",
@@ -889,7 +903,7 @@
     ]
   },
   {
-    "id": "5067",
+    "id": "5068",
     "collegeName": "Gloucestershire College",
     "type": "GFEC",
     "URN": "130683",
@@ -903,7 +917,7 @@
     ]
   },
   {
-    "id": "5068",
+    "id": "5069",
     "collegeName": "Grantham College",
     "type": "GFEC",
     "URN": "130759",
@@ -916,7 +930,7 @@
     ]
   },
   {
-    "id": "5069",
+    "id": "5070",
     "collegeName": "Halesowen College",
     "type": "GFEC",
     "URN": "130476",
@@ -929,7 +943,7 @@
     ]
   },
   {
-    "id": "5070",
+    "id": "5071",
     "collegeName": "Harlow College",
     "type": "GFEC",
     "URN": "130676",
@@ -942,7 +956,7 @@
     ]
   },
   {
-    "id": "5071",
+    "id": "5072",
     "parentId": "1005",
     "collegeName": "Harrow College",
     "type": "GFEC",
@@ -952,20 +966,6 @@
         "campusName": "Harrow on the Hill Campus",
         "address": "Lowlands Road, Harrow, Middlesex",
         "postcode": "HA1 3AQ"
-      }
-    ]
-  },
-  {
-    "id": "5072",
-    "parentId": "1005",
-    "collegeName": "Uxbridge College",
-    "type": "GFEC",
-    "website": "https://www.harrow.ac.uk/",
-    "campuses": [
-      {
-        "campusName": "Uxbridge Campus",
-        "address": "  Park Road, Uxbridge, Middlesex",
-        "postcode": "UB8 1NQ"
       }
     ]
   },
@@ -986,6 +986,20 @@
   {
     "id": "5074",
     "parentId": "1005",
+    "collegeName": "Uxbridge College",
+    "type": "GFEC",
+    "website": "https://www.harrow.ac.uk/",
+    "campuses": [
+      {
+        "campusName": "Uxbridge Campus",
+        "address": "  Park Road, Uxbridge, Middlesex",
+        "postcode": "UB8 1NQ"
+      }
+    ]
+  },
+  {
+    "id": "5075",
+    "parentId": "1005",
     "collegeName": "Richmond upon Thames College",
     "type": "GFEC",
     "website": "https://www.rutc.ac.uk/",
@@ -997,7 +1011,7 @@
     ]
   },
   {
-    "id": "5075",
+    "id": "5076",
     "collegeName": "Hartlepool College of Further Education",
     "type": "GFEC",
     "URN": "130567",
@@ -1010,7 +1024,7 @@
     ]
   },
   {
-    "id": "5076",
+    "id": "5077",
     "collegeName": "Havant and South Downs College",
     "type": "GFEC",
     "URN": "130695",
@@ -1024,7 +1038,7 @@
     ]
   },
   {
-    "id": "5077",
+    "id": "5078",
     "collegeName": "Heart of Worcestershire College",
     "type": "GFEC",
     "URN": "130713",
@@ -1038,7 +1052,7 @@
     ]
   },
   {
-    "id": "5078",
+    "id": "5079",
     "parentId": "1006",
     "collegeName": "Wakefield College",
     "type": "GFEC",
@@ -1052,7 +1066,7 @@
     ]
   },
   {
-    "id": "5079",
+    "id": "5080",
     "collegeName": "Herefordshire, Ludlow and North Shropshire College",
     "type": "GFEC",
     "URN": "130710",
@@ -1066,7 +1080,7 @@
     ]
   },
   {
-    "id": "5080",
+    "id": "5081",
     "collegeName": "Hereward College of Further Education",
     "type": "GFEC",
     "URN": "130474",
@@ -1079,7 +1093,7 @@
     ]
   },
   {
-    "id": "5081",
+    "id": "5082",
     "collegeName": "Hertford Regional College",
     "type": "GFEC",
     "URN": "130722",
@@ -1093,7 +1107,7 @@
     ]
   },
   {
-    "id": "5082",
+    "id": "5083",
     "collegeName": "Hopwood Hall College",
     "type": "GFEC",
     "URN": "130507",
@@ -1107,7 +1121,7 @@
     ]
   },
   {
-    "id": "5083",
+    "id": "5084",
     "collegeName": "Hugh Baird College",
     "type": "GFEC",
     "URN": "130490",
@@ -1121,7 +1135,7 @@
     ]
   },
   {
-    "id": "5084",
+    "id": "5085",
     "collegeName": "Hull College",
     "type": "GFEC",
     "URN": "130579",
@@ -1134,7 +1148,7 @@
     ]
   },
   {
-    "id": "5085",
+    "id": "5086",
     "parentId": "1007",
     "collegeName": "Peterborough College",
     "type": "GFEC",
@@ -1147,7 +1161,7 @@
     ]
   },
   {
-    "id": "5086",
+    "id": "5087",
     "parentId": "1007",
     "collegeName": "Stamford College",
     "type": "GFEC",
@@ -1160,7 +1174,7 @@
     ]
   },
   {
-    "id": "5087",
+    "id": "5088",
     "collegeName": "Kendal College",
     "type": "GFEC",
     "URN": "130631",
@@ -1174,7 +1188,7 @@
     ]
   },
   {
-    "id": "5088",
+    "id": "5089",
     "collegeName": "Kirklees College",
     "type": "GFEC",
     "URN": "130537",
@@ -1188,7 +1202,7 @@
     ]
   },
   {
-    "id": "5089",
+    "id": "5090",
     "collegeName": "Lakes College, West Cumbria",
     "type": "GFEC",
     "URN": "130632",
@@ -1201,7 +1215,7 @@
     ]
   },
   {
-    "id": "5090",
+    "id": "5091",
     "collegeName": "Lancaster and Morecambe College",
     "type": "GFEC",
     "URN": "130737",
@@ -1214,7 +1228,7 @@
     ]
   },
   {
-    "id": "5091",
+    "id": "5092",
     "collegeName": "Leeds College of Building",
     "type": "GFEC",
     "URN": "130542",
@@ -1227,7 +1241,7 @@
     ]
   },
   {
-    "id": "5092",
+    "id": "5093",
     "collegeName": "Leicester College",
     "type": "GFEC",
     "URN": "131863",
@@ -1241,7 +1255,7 @@
     ]
   },
   {
-    "id": "5093",
+    "id": "5094",
     "collegeName": "Lincoln College",
     "type": "GFEC",
     "URN": "130762",
@@ -1254,7 +1268,7 @@
     ]
   },
   {
-    "id": "5094",
+    "id": "5095",
     "collegeName": "London South East Colleges (LSEC)",
     "type": "GFEC",
     "URN": "130430",
@@ -1268,7 +1282,7 @@
     ]
   },
   {
-    "id": "5095",
+    "id": "5096",
     "collegeName": "Loughborough College",
     "type": "GFEC",
     "URN": "130748",
@@ -1281,7 +1295,7 @@
     ]
   },
   {
-    "id": "5096",
+    "id": "5097",
     "parentId": "1008",
     "collegeName": "The Manchester College",
     "type": "GFEC",
@@ -1295,7 +1309,7 @@
     ]
   },
   {
-    "id": "5097",
+    "id": "5098",
     "parentId": "1009",
     "collegeName": "Leeds City College",
     "type": "GFEC",
@@ -1309,7 +1323,7 @@
     ]
   },
   {
-    "id": "5098",
+    "id": "5099",
     "parentId": "1009",
     "collegeName": "Keighley College",
     "type": "GFEC",
@@ -1322,7 +1336,7 @@
     ]
   },
   {
-    "id": "5099",
+    "id": "5100",
     "parentId": "1009",
     "collegeName": "Harrogate College",
     "type": "GFEC",
@@ -1335,7 +1349,7 @@
     ]
   },
   {
-    "id": "5100",
+    "id": "5101",
     "collegeName": "Macclesfield College",
     "type": "GFEC",
     "URN": "130621",
@@ -1348,7 +1362,7 @@
     ]
   },
   {
-    "id": "5101",
+    "id": "5102",
     "collegeName": "Middlesbrough College",
     "type": "GFEC",
     "URN": "130570",
@@ -1361,7 +1375,7 @@
     ]
   },
   {
-    "id": "5102",
+    "id": "5103",
     "collegeName": "MidKent College",
     "type": "GFEC",
     "URN": "130726",
@@ -1375,7 +1389,7 @@
     ]
   },
   {
-    "id": "5103",
+    "id": "5104",
     "collegeName": "Milton Keynes College",
     "type": "GFEC",
     "URN": "130609",
@@ -1389,7 +1403,7 @@
     ]
   },
   {
-    "id": "5104",
+    "id": "5105",
     "parentId": "1010",
     "collegeName": "Carlisle College",
     "type": "GFEC",
@@ -1402,7 +1416,7 @@
     ]
   },
   {
-    "id": "5105",
+    "id": "5106",
     "parentId": "1010",
     "collegeName": "Kidderminster College",
     "type": "GFEC",
@@ -1415,7 +1429,7 @@
     ]
   },
   {
-    "id": "5106",
+    "id": "5107",
     "parentId": "1010",
     "collegeName": "Lewisham College",
     "type": "GFEC",
@@ -1428,7 +1442,7 @@
     ]
   },
   {
-    "id": "5107",
+    "id": "5108",
     "parentId": "1010",
     "collegeName": "Newcastle College",
     "type": "GFEC",
@@ -1442,7 +1456,7 @@
     ]
   },
   {
-    "id": "5108",
+    "id": "5109",
     "parentId": "1010",
     "collegeName": "Southwark College",
     "type": "GFEC",
@@ -1455,7 +1469,7 @@
     ]
   },
   {
-    "id": "5109",
+    "id": "5110",
     "parentId": "1010",
     "collegeName": "West Lancashire College",
     "type": "GFEC",
@@ -1468,7 +1482,7 @@
     ]
   },
   {
-    "id": "5110",
+    "id": "5111",
     "collegeName": "Nelson and Colne College",
     "type": "GFEC",
     "URN": "130738",
@@ -1482,7 +1496,7 @@
     ]
   },
   {
-    "id": "5111",
+    "id": "5112",
     "collegeName": "New City College",
     "type": "GFEC",
     "URN": "130418",
@@ -1496,7 +1510,7 @@
     ]
   },
   {
-    "id": "5112",
+    "id": "5113",
     "collegeName": "New College Durham",
     "type": "GFEC",
     "URN": "130659",
@@ -1509,7 +1523,7 @@
     ]
   },
   {
-    "id": "5113",
+    "id": "5114",
     "collegeName": "New College Swindon",
     "type": "GFEC",
     "URN": "130851",
@@ -1523,7 +1537,7 @@
     ]
   },
   {
-    "id": "5114",
+    "id": "5115",
     "collegeName": "Newbury College",
     "type": "GFEC",
     "URN": "130602",
@@ -1536,7 +1550,7 @@
     ]
   },
   {
-    "id": "5115",
+    "id": "5116",
     "collegeName": "Newcastle and Stafford Colleges Group (NSCG)",
     "type": "GFEC",
     "URN": "130812",
@@ -1550,7 +1564,7 @@
     ]
   },
   {
-    "id": "5116",
+    "id": "5117",
     "collegeName": "Newham College of Further Education",
     "type": "GFEC",
     "URN": "130451",
@@ -1564,7 +1578,7 @@
     ]
   },
   {
-    "id": "5117",
+    "id": "5118",
     "collegeName": "North East Surrey College of Technology",
     "type": "GFEC",
     "URN": "130822",
@@ -1577,7 +1591,7 @@
     ]
   },
   {
-    "id": "5118",
+    "id": "5119",
     "collegeName": "North Hertfordshire College",
     "type": "GFEC",
     "URN": "130721",
@@ -1591,7 +1605,7 @@
     ]
   },
   {
-    "id": "5119",
+    "id": "5120",
     "collegeName": "North Kent College",
     "type": "GFEC",
     "URN": "130725",
@@ -1605,7 +1619,7 @@
     ]
   },
   {
-    "id": "5120",
+    "id": "5121",
     "collegeName": "North Warwickshire and South Leicestershire College",
     "type": "GFEC",
     "URN": "130836",
@@ -1619,7 +1633,7 @@
     ]
   },
   {
-    "id": "5121",
+    "id": "5122",
     "collegeName": "Northampton College",
     "type": "GFEC",
     "URN": "130769",
@@ -1633,7 +1647,7 @@
     ]
   },
   {
-    "id": "5122",
+    "id": "5123",
     "collegeName": "Nottingham College",
     "type": "GFEC",
     "URN": "130776",
@@ -1647,7 +1661,7 @@
     ]
   },
   {
-    "id": "5123",
+    "id": "5124",
     "collegeName": "Oaklands College",
     "type": "GFEC",
     "URN": "130723",
@@ -1661,7 +1675,7 @@
     ]
   },
   {
-    "id": "5124",
+    "id": "5125",
     "parentId": "1011",
     "collegeName": "East Surrey College",
     "type": "GFEC",
@@ -1674,7 +1688,7 @@
     ]
   },
   {
-    "id": "5125",
+    "id": "5126",
     "parentId": "1011",
     "collegeName": "John Ruskin College",
     "type": "GFEC",
@@ -1687,7 +1701,7 @@
     ]
   },
   {
-    "id": "5126",
+    "id": "5127",
     "collegeName": "Petroc",
     "type": "GFEC",
     "URN": "130646",
@@ -1701,7 +1715,7 @@
     ]
   },
   {
-    "id": "5127",
+    "id": "5128",
     "collegeName": "Preston College",
     "type": "GFEC",
     "URN": "130740",
@@ -1714,7 +1728,7 @@
     ]
   },
   {
-    "id": "5128",
+    "id": "5129",
     "collegeName": "Riverside College",
     "type": "GFEC",
     "URN": "130622",
@@ -1727,7 +1741,7 @@
     ]
   },
   {
-    "id": "5129",
+    "id": "5130",
     "parentId": "1012",
     "collegeName": "Rotherham College",
     "type": "GFEC",
@@ -1741,7 +1755,7 @@
     ]
   },
   {
-    "id": "5130",
+    "id": "5131",
     "parentId": "1012",
     "collegeName": "Dearne Valley College",
     "type": "GFEC",
@@ -1755,7 +1769,7 @@
     ]
   },
   {
-    "id": "5131",
+    "id": "5132",
     "parentId": "1012",
     "collegeName": "North Notts College",
     "type": "GFEC",
@@ -1769,7 +1783,7 @@
     ]
   },
   {
-    "id": "5132",
+    "id": "5133",
     "collegeName": "Runshaw College",
     "type": "GFEC",
     "URN": "130741",
@@ -1783,7 +1797,7 @@
     ]
   },
   {
-    "id": "5133",
+    "id": "5134",
     "collegeName": "Salford City College",
     "type": "GFEC",
     "URN": "130509",
@@ -1796,7 +1810,7 @@
     ]
   },
   {
-    "id": "5134",
+    "id": "5135",
     "collegeName": "Sandwell College",
     "type": "GFEC",
     "URN": "130479",
@@ -1810,7 +1824,7 @@
     ]
   },
   {
-    "id": "5135",
+    "id": "5136",
     "collegeName": "Shipley College",
     "type": "GFEC",
     "URN": "130534",
@@ -1823,10 +1837,10 @@
     ]
   },
   {
-    "id": "5136",
+    "id": "5137",
+    "parentId": "1026",
     "collegeName": "St Helens College",
     "type": "GFEC",
-    "URN": "130488",
     "website": "https://www.sthelens.ac.uk/",
     "campuses": [
       {
@@ -1837,7 +1851,21 @@
     ]
   },
   {
-    "id": "5137",
+    "id": "5138",
+    "parentId": "1026",
+    "collegeName": "Knowsley Community College",
+    "type": "GFEC",
+    "website": "https://www.knowsleycollege.ac.uk/",
+    "campuses": [
+      {
+        "campusName": "Main Campus",
+        "address": "Huyton, Liverpool",
+        "postcode": "L36 3SD"
+      }
+    ]
+  },
+  {
+    "id": "5139",
     "collegeName": "Solihull College and University Centre",
     "type": "GFEC",
     "URN": "130481",
@@ -1851,7 +1879,7 @@
     ]
   },
   {
-    "id": "5138",
+    "id": "5140",
     "collegeName": "South and City College Birmingham",
     "type": "GFEC",
     "URN": "130461",
@@ -1865,7 +1893,7 @@
     ]
   },
   {
-    "id": "5139",
+    "id": "5141",
     "parentId": "1013",
     "collegeName": "Lambeth College",
     "type": "FE",
@@ -1879,7 +1907,7 @@
     ]
   },
   {
-    "id": "5140",
+    "id": "5142",
     "collegeName": "South Devon College",
     "type": "GFEC",
     "URN": "130648",
@@ -1893,7 +1921,7 @@
     ]
   },
   {
-    "id": "5141",
+    "id": "5143",
     "collegeName": "South Essex College of Further and Higher Education",
     "type": "GFEC",
     "URN": "130672",
@@ -1907,7 +1935,7 @@
     ]
   },
   {
-    "id": "5142",
+    "id": "5144",
     "collegeName": "South Gloucestershire and Stroud College",
     "type": "GFEC",
     "URN": "139238",
@@ -1921,7 +1949,7 @@
     ]
   },
   {
-    "id": "5143",
+    "id": "5145",
     "collegeName": "South Staffordshire College",
     "type": "GFEC",
     "URN": "135658",
@@ -1935,7 +1963,7 @@
     ]
   },
   {
-    "id": "5144",
+    "id": "5146",
     "collegeName": "Southport College",
     "type": "GFEC",
     "URN": "130491",
@@ -1948,7 +1976,7 @@
     ]
   },
   {
-    "id": "5145",
+    "id": "5147",
     "collegeName": "Stanmore College",
     "type": "GFEC",
     "URN": "130440",
@@ -1961,7 +1989,7 @@
     ]
   },
   {
-    "id": "5146",
+    "id": "5148",
     "collegeName": "Stoke-on-Trent College",
     "type": "GFEC",
     "URN": "130815",
@@ -1975,7 +2003,7 @@
     ]
   },
   {
-    "id": "5147",
+    "id": "5149",
     "collegeName": "Strode College",
     "type": "GFEC",
     "URN": "130806",
@@ -1988,7 +2016,7 @@
     ]
   },
   {
-    "id": "5148",
+    "id": "5150",
     "collegeName": "Suffolk New College",
     "type": "GFEC",
     "URN": "130820",
@@ -2002,7 +2030,7 @@
     ]
   },
   {
-    "id": "5149",
+    "id": "5151",
     "parentId": "1025",
     "collegeName": "Sunderland College",
     "type": "GFEC",
@@ -2016,7 +2044,7 @@
     ]
   },
   {
-    "id": "5150",
+    "id": "5152",
     "parentId": "1025",
     "collegeName": "Northumberland College",
     "type": "GFEC",
@@ -2030,7 +2058,7 @@
     ]
   },
   {
-    "id": "5151",
+    "id": "5153",
     "collegeName": "Tameside College",
     "type": "GFEC",
     "URN": "130516",
@@ -2043,7 +2071,7 @@
     ]
   },
   {
-    "id": "5152",
+    "id": "5154",
     "parentId": "1014",
     "collegeName": "East Riding College",
     "type": "GFEC",
@@ -2057,7 +2085,7 @@
     ]
   },
   {
-    "id": "5153",
+    "id": "5155",
     "collegeName": "Telford College",
     "type": "GFEC",
     "URN": "130796",
@@ -2070,7 +2098,7 @@
     ]
   },
   {
-    "id": "5154",
+    "id": "5156",
     "parentId": "1015",
     "collegeName": "Bedford College",
     "type": "GFEC",
@@ -2083,7 +2111,7 @@
     ]
   },
   {
-    "id": "5155",
+    "id": "5157",
     "parentId": "1015",
     "collegeName": "Central Bedfordshire College",
     "type": "GFEC",
@@ -2096,7 +2124,7 @@
     ]
   },
   {
-    "id": "5156",
+    "id": "5158",
     "parentId": "1015",
     "collegeName": "National College for Motorsport",
     "type": "GFEC",
@@ -2109,7 +2137,7 @@
     ]
   },
   {
-    "id": "5157",
+    "id": "5159",
     "parentId": "1015",
     "collegeName": "Shuttleworth College",
     "type": "GFEC",
@@ -2122,7 +2150,7 @@
     ]
   },
   {
-    "id": "5158",
+    "id": "5160",
     "parentId": "1015",
     "collegeName": "Tresham College",
     "type": "GFEC",
@@ -2135,7 +2163,7 @@
     ]
   },
   {
-    "id": "5159",
+    "id": "5161",
     "collegeName": "The City of Liverpool College",
     "type": "GFEC",
     "URN": "130487",
@@ -2149,7 +2177,7 @@
     ]
   },
   {
-    "id": "5160",
+    "id": "5162",
     "collegeName": "College of West Anglia",
     "type": "GFEC",
     "URN": "130763",
@@ -2163,7 +2191,7 @@
     ]
   },
   {
-    "id": "5161",
+    "id": "5163",
     "parentId": "1016",
     "collegeName": "Cornwall College",
     "type": "GFEC",
@@ -2173,33 +2201,6 @@
         "campusName": "Cornwall College St Austell",
         "address": "Tregonissey Road, St Austell, Cornwall",
         "postcode": "PL25 4DJ"
-      }
-    ]
-  },
-  {
-    "id": "5162",
-    "parentId": "1016",
-    "collegeName": "Duchy College",
-    "type": "GFEC",
-    "website": "https://duchy.ac.uk/",
-    "campuses": [
-      {
-        "campusName": "Rosewarne Campus",
-        "address": "Camborne, Cornwall",
-        "postcode": "TR14 0AB"
-      }
-    ]
-  },
-  {
-    "id": "5163",
-    "parentId": "1016",
-    "collegeName": "Bicton College",
-    "type": "GFEC",
-    "website": "https://bicton.ac.uk/",
-    "campuses": [
-      {
-        "address": "East Budleigh, Budleigh Salterton, Devon",
-        "postcode": "EX9 7BH"
       }
     ]
   },
