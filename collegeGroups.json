@@ -157,5 +157,26 @@
     "groupId": "1026",
     "name": "SK College Group",
     "URN": "130488"
+  },
+  {
+    "groupId": "1027",
+    "name": "East Sussex College Group",
+    "URN": "130665"
+  },
+  {
+    "groupId": "1028",
+    "name": "Salford City College Group (SCC Group)",
+    "URN": "130509"
+  },
+  {
+    "groupId": "1029",
+    "name": "Dorset College Group",
+    "URN": "130653"
+  },
+  {
+    "groupId": "1030",
+    "name": "Nelson and Colne College Group",
+    "URN": "130738",
+    "website": "https://www.nelsongroup.ac.uk/"
   }
 ]
