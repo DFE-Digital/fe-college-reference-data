@@ -676,8 +676,8 @@
   },
   {
     "id": "15300",
-    "collegeName": "East Sussex College Group",
-    "URN": "130665",
+    "parentId": "1027",
+    "collegeName": "East Sussex College",
     "website": "https://www.escg.ac.uk/",
     "campuses": [
       {
