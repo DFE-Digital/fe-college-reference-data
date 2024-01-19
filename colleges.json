@@ -2435,8 +2435,8 @@
   },
   {
     "id": "29200",
+    "parentId": "1029",
     "collegeName": "Weymouth College",
-    "URN": "130653",
     "website": "https://www.weymouth.ac.uk/",
     "campuses": [
       {
