@@ -1691,8 +1691,8 @@
   },
   {
     "id": "23300",
+    "parentId": "1028",
     "collegeName": "Salford City College",
-    "URN": "130509",
     "website": "https://www.salfordcc.ac.uk/",
     "campuses": [
       {
