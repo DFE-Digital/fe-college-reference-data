@@ -162,5 +162,11 @@
     "groupId": "1027",
     "name": "East Sussex College Group",
     "URN": "130665"
+  },
+  {
+    "groupId": "1030",
+    "name": "Nelson and Colne College Group",
+    "URN": "130738",
+    "website": "https://www.nelsongroup.ac.uk/"
   }
 ]
