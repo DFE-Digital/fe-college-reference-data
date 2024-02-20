@@ -278,3 +278,41 @@ Have made "Sparsholt College Group" the parent with "Andover Campus" the college
 ## SMB College Group
 
 Although this is a 'group', there are no college entities listed, only campuses. So I have made "SMB College Group" a college. Choose "Stephenson Campus" for address because it had the widest selection of courses, is also address listed in GIAS.
+
+
+## Bolton college
+
+  {
+    "id": "11500",
+    "collegeName": "Bolton College",
+    "URN": "130495",
+    "website": "https://www.boltoncollege.ac.uk/",
+    "campuses": [
+      {
+        "campusName": "Deane Road Campus",
+        "address": "Deane Road, Bolton",
+        "postcode": "BL3 5BG"
+      }
+    ]
+  },
+
+Removed because we do not have a contact
+
+
+## Buxton and Leek college
+
+  {
+    "id": "12500",
+    "collegeName": "Buxton and Leek College",
+    "URN": "148567",
+    "website": "https://www.blc.ac.uk/",
+    "campuses": [
+      {
+        "campusName": "Buxton Campus",
+        "address": "Devonshire Road, Buxton, Derbyshire",
+        "postcode": "SK17 6RY"
+      }
+    ]
+  },
+
+Removed because we do not have a contact

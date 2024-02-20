@@ -190,19 +190,6 @@
     ]
   },
   {
-    "id": "11500",
-    "collegeName": "Bolton College",
-    "URN": "130495",
-    "website": "https://www.boltoncollege.ac.uk/",
-    "campuses": [
-      {
-        "campusName": "Deane Road Campus",
-        "address": "Deane Road, Bolton",
-        "postcode": "BL3 5BG"
-      }
-    ]
-  },
-  {
     "id": "11600",
     "collegeName": "Boston College",
     "URN": "130761",
@@ -314,19 +301,6 @@
         "campusName": "Burton Town Centre Campus",
         "address": "Lichfield Street, Burton upon Trent",
         "postcode": "DE14 3RL"
-      }
-    ]
-  },
-  {
-    "id": "12500",
-    "collegeName": "Buxton and Leek College",
-    "URN": "148567",
-    "website": "https://www.blc.ac.uk/",
-    "campuses": [
-      {
-        "campusName": "Buxton Campus",
-        "address": "Devonshire Road, Buxton, Derbyshire",
-        "postcode": "SK17 6RY"
       }
     ]
   },
